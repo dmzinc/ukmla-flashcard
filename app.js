@@ -1,6 +1,17 @@
 let conditions = [];
 let currentIndex = 0;
 
+// Function to save current index to localStorage
+function saveProgress() {
+    localStorage.setItem('ukmlaFlashcardIndex', currentIndex);
+}
+
+// Function to load saved progress
+function loadProgress() {
+    const savedIndex = localStorage.getItem('ukmlaFlashcardIndex');
+    return savedIndex ? parseInt(savedIndex) : 0;
+}
+
 async function loadConditions() {
     try {
         const response = await fetch('medical_conditions_detailed.json');
@@ -10,6 +21,9 @@ async function loadConditions() {
         const data = await response.json();
         conditions = data.conditions || [];
         document.getElementById('totalCards').textContent = conditions.length;
+        
+        // Load saved progress and show the corresponding card
+        currentIndex = loadProgress();
         showCard(currentIndex);
     } catch (error) {
         console.error('Error loading conditions:', error);
@@ -44,6 +58,9 @@ function showCard(index) {
     });
     
     updateButtons();
+    
+    // Save progress after showing new card
+    saveProgress();
 }
 
 function formatTitle(title) {
@@ -96,6 +113,9 @@ function handleSwipe() {
         }
     }
 }
+
+// Save progress when user leaves the page
+window.addEventListener('beforeunload', saveProgress);
 
 // Initialize the app
 document.addEventListener('DOMContentLoaded', loadConditions); 
