@@ -39,7 +39,7 @@ For support, please open an issue in the repository or contact the maintainers.
 
 ## Author
 
-[Your Name]
+Dmzinc
 
 ---
 
