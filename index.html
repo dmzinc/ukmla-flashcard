@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UKMLA Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>UKMLA Flashcards</h1>
+            <div class="progress">
+                Card <span id="currentCard">1</span> of <span id="totalCards">0</span>
+            </div>
+        </header>
+
+        <div class="flashcard" id="flashcard">
+            <div class="condition-title" id="condition"></div>
+            <div class="notes-container" id="notes"></div>
+        </div>
+
+        <div class="controls">
+            <button id="prevBtn" onclick="showPreviousCard()" class="btn">
+                <span>←</span> Previous
+            </button>
+            <button id="nextBtn" onclick="showNextCard()" class="btn">
+                Next <span>→</span>
+            </button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html> 

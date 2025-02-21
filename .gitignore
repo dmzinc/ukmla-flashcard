@@ -1,0 +1,34 @@
+# PDF files
+*.pdf
+**/*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if you add any in the future)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build files
+dist/
+build/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Temporary files
+*.tmp
+*.temp 

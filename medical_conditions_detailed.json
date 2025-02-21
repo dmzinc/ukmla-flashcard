@@ -1,0 +1,2577 @@
+{
+    "conditions": [
+      {
+        "condition": "Acid-Base Abnormality",
+        "important_notes": {
+          "Common UKMLA Topics": ["Metabolic vs respiratory acidosis/alkalosis", "ABG interpretation", "Compensatory mechanisms"],
+          "Red Flags": ["Severe acidosis (pH <7.1) requiring bicarbonate", "Respiratory failure in respiratory acidosis"],
+          "Management Considerations": ["Address underlying cause (e.g., DKA, renal failure)", "IV bicarbonate only in severe cases"]
+        }
+      },
+      {
+        "condition": "Acne Vulgaris",
+        "important_notes": {
+          "Common UKMLA Topics": ["Hormonal influence (e.g., puberty, PCOS)", "First-line vs second-line treatment", "When to refer to dermatology"],
+          "Red Flags": ["Severe nodulocystic acne requiring isotretinoin", "Acne fulminans with systemic symptoms"],
+          "Management Considerations": ["Topical retinoids and benzoyl peroxide first-line", "Oral isotretinoin for severe or scarring acne"]
+        }
+      },
+      {
+        "condition": "Acoustic Neuroma",
+        "important_notes": {
+          "Common UKMLA Topics": ["Presentation with unilateral sensorineural hearing loss", "MRI as gold standard diagnosis", "Neurofibromatosis type 2 association"],
+          "Red Flags": ["Brainstem compression symptoms", "Sudden hearing loss"],
+          "Management Considerations": ["Small, asymptomatic tumors - observation", "Surgical removal or radiotherapy if symptomatic"]
+        }
+      },
+      {
+        "condition": "Acute Bronchitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Viral vs bacterial etiology", "Supportive management", "Avoidance of unnecessary antibiotics"],
+          "Red Flags": ["Consider pneumonia if fever, tachypnea, or focal chest findings", "Assess for COPD exacerbation in high-risk patients"],
+          "Management Considerations": ["Symptomatic relief (fluids, rest, analgesia)", "Short-term bronchodilators if wheezing"]
+        }
+      },
+      {
+        "condition": "Acute Cholangitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Charcot's triad and Reynold’s pentad", "Biliary obstruction on imaging", "Sepsis management"],
+          "Red Flags": ["Hypotension and altered mental status (Reynold’s pentad = severe sepsis)", "Delayed biliary drainage increases mortality"],
+          "Management Considerations": ["IV antibiotics (broad-spectrum)", "ERCP for biliary drainage"]
+        }
+      },
+      {
+        "condition": "Acute Coronary Syndromes (ACS)",
+        "important_notes": {
+          "Common UKMLA Topics": ["STEMI vs NSTEMI diagnosis", "ECG changes in ACS", "Troponin dynamics"],
+          "Red Flags": ["Ongoing ischemic pain despite nitrates", "Cardiogenic shock signs"],
+          "Management Considerations": ["Aspirin and clopidogrel immediately", "PCI within 90 mins for STEMI"]
+        }
+      },
+      {
+        "condition": "Acute Glaucoma",
+        "important_notes": {
+          "Common UKMLA Topics": ["Sudden painful vision loss", "Fixed, mid-dilated pupil", "Ophthalmic emergency"],
+          "Red Flags": ["Severe eye pain with headache and nausea", "Intraocular pressure >30 mmHg"],
+          "Management Considerations": ["IV acetazolamide to reduce pressure", "Urgent ophthalmology referral"]
+        }
+      },
+      {
+        "condition": "Acute Kidney Injury (AKI)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Pre-renal, intrinsic, post-renal classification", "RIFLE criteria for severity", "Electrolyte abnormalities (hyperkalemia, acidosis)"]
+        ,
+          "Red Flags": ["Oliguria <0.5ml/kg/hr for >6 hrs", "Severe hyperkalemia (>6.5 mmol/L) requiring urgent dialysis"],
+          "Management Considerations": ["Fluids for pre-renal AKI", "Avoid nephrotoxic drugs (NSAIDs, aminoglycosides)"]
+        }
+      },
+      {
+        "condition": "Acute Pancreatitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Gallstones vs alcohol-induced causes", "Amylase vs lipase for diagnosis", "Ranson’s criteria for severity"],
+          "Red Flags": ["Severe persistent abdominal pain with hypotension", "Signs of necrotizing pancreatitis (SIRS, organ failure)"],
+          "Management Considerations": ["IV fluids and pain control", "No routine antibiotics unless infected necrosis"]
+        }
+      },
+      {
+        "condition": "Acute Stress Reaction",
+        "important_notes": {
+          "Common UKMLA Topics": ["Acute response to trauma", "Differentiate from PTSD", "Short-term, self-limiting nature"],
+          "Red Flags": ["Persistent symptoms beyond 4 weeks → consider PTSD", "Suicidal ideation or severe distress"],
+          "Management Considerations": ["Psychological support and reassurance", "Avoid benzodiazepines unless severe anxiety"]
+        }
+      },
+      {
+        "condition": "Addison's Disease",
+        "important_notes": {
+          "Common UKMLA Topics": ["Primary adrenal insufficiency", "Hyperpigmentation due to high ACTH", "Electrolyte disturbances (hyponatremia, hyperkalemia)"],
+          "Red Flags": ["Addisonian crisis (hypotension, hypoglycemia, shock)", "Severe electrolyte imbalances"]
+        ,
+          "Management Considerations": ["Hydrocortisone replacement", "In crisis: IV hydrocortisone + fluid resuscitation"]
+        }
+      },
+      {
+        "condition": "Adverse Drug Effects",
+        "important_notes": {
+          "Common UKMLA Topics": ["Drug side effects vs allergic reactions", "Common culprits (e.g., NSAIDs, antibiotics, chemotherapy)", "Monitoring for toxicity"],
+          "Red Flags": ["Anaphylaxis due to drug reaction", "Stevens-Johnson syndrome", "Acute liver failure from drug toxicity"],
+          "Management Considerations": ["Immediate discontinuation of offending drug", "Symptomatic treatment (e.g., antihistamines, steroids)"]
+        }
+      },
+      {
+        "condition": "Alcoholic Hepatitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Alcohol-related liver disease spectrum", "AST:ALT ratio >2:1", "Role of Maddrey’s Discriminant Function"],
+          "Red Flags": ["Severe jaundice and hepatic encephalopathy", "Coagulopathy and GI bleeding"],
+          "Management Considerations": ["Alcohol cessation", "Supportive care (nutrition, fluids, thiamine)", "Consider corticosteroids in severe cases"]
+        }
+      },
+      {
+        "condition": "Allergic Disorder",
+        "important_notes": {
+          "Common UKMLA Topics": ["Type I hypersensitivity reactions", "Allergen avoidance", "EpiPen use in anaphylaxis"],
+          "Red Flags": ["Anaphylaxis with airway compromise", "Severe urticaria or angioedema"],
+          "Management Considerations": ["Antihistamines for mild cases", "Epinephrine for anaphylaxis", "Corticosteroids for prolonged symptoms"]
+        }
+      },
+      {
+        "condition": "Anaemia",
+        "important_notes": {
+          "Common UKMLA Topics": ["Iron deficiency vs B12/folate deficiency vs hemolytic anaemia", "MCV-based classification", "Investigations (e.g., ferritin, reticulocyte count)"],
+          "Red Flags": ["Severe symptomatic anaemia requiring transfusion", "Pancytopenia suggesting bone marrow failure"],
+          "Management Considerations": ["Iron supplementation for deficiency", "B12 injections for pernicious anaemia", "Blood transfusion if Hb <7 g/dL with symptoms"]
+        }
+      },
+      {
+        "condition": "Anal Fissure",
+        "important_notes": {
+          "Common UKMLA Topics": ["Causes (constipation, trauma, IBD)", "Acute vs chronic fissures", "First-line conservative management"],
+          "Red Flags": ["Non-healing fissures (consider malignancy or Crohn’s disease)", "Severe anal pain with infection signs"],
+          "Management Considerations": ["Topical analgesics and stool softeners", "Nifedipine or GTN for chronic fissures", "Surgical intervention for refractory cases"]
+        }
+      },
+      {
+        "condition": "Anaphylaxis",
+        "important_notes": {
+          "Common UKMLA Topics": ["IgE-mediated hypersensitivity", "Common triggers (food, drugs, insect stings)", "ABCDE approach to management"],
+          "Red Flags": ["Airway swelling, stridor, hypotension", "Rapidly progressing symptoms despite treatment"],
+          "Management Considerations": ["IM adrenaline 0.5mg immediately", "IV fluids and antihistamines", "Steroids to prevent biphasic reaction"]
+        }
+      },
+      {
+        "condition": "Aneurysms, Ischaemic Limb and Occlusions",
+        "important_notes": {
+          "Common UKMLA Topics": ["Aortic vs peripheral aneurysms", "6 P’s of acute limb ischemia", "Imaging for diagnosis (CT angiography)"],
+          "Red Flags": ["Cold, pulseless limb (vascular emergency)", "Ruptured aortic aneurysm (hypotension, back pain)"],
+          "Management Considerations": ["Urgent vascular surgery consultation", "Anticoagulation for thrombotic occlusions", "Endovascular vs open repair for aneurysms"]
+        }
+      },
+      {
+        "condition": "Ankylosing Spondylitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["HLA-B27 association", "Morning stiffness and sacroiliitis", "Role of NSAIDs and physiotherapy"],
+          "Red Flags": ["Severe spinal deformity", "Acute cauda equina syndrome"],
+          "Management Considerations": ["NSAIDs as first-line", "Biologics (TNF inhibitors) for severe cases", "Encourage regular exercise and posture control"]
+        }
+      },
+      {
+        "condition": "Anxiety Disorder: Generalised",
+        "important_notes": {
+          "Common UKMLA Topics": ["Diagnostic criteria (excessive worry >6 months)", "CBT vs medication", "SSRI first-line treatment"],
+          "Red Flags": ["Suicidal ideation or severe functional impairment", "Benzodiazepine dependence risk"],
+          "Management Considerations": ["CBT preferred in mild cases", "SSRIs (e.g., sertraline) for moderate-severe cases", "Short-term benzodiazepines in crisis situations"]
+        }
+      },
+      {
+        "condition": "Anxiety Disorder: PTSD",
+        "important_notes": {
+          "Common UKMLA Topics": ["Exposure to trauma as a prerequisite", "Re-experiencing, avoidance, hyperarousal symptoms", "EMDR and trauma-focused CBT"],
+          "Red Flags": ["High risk of suicide and self-harm", "Flashbacks with dissociation"],
+          "Management Considerations": ["CBT and EMDR as first-line", "SSRIs (e.g., sertraline) if needed", "Avoid benzodiazepines"]
+        }
+      },
+      {
+        "condition": "Anxiety, Phobias, OCD",
+        "important_notes": {
+          "Common UKMLA Topics": ["CBT for phobias and OCD", "Exposure therapy principles", "SSRIs for severe cases"],
+          "Red Flags": ["Compulsive behaviors causing self-harm", "Severe social isolation due to phobias"],
+          "Management Considerations": ["CBT exposure therapy for phobias", "SSRIs (fluoxetine) for OCD", "Gradual desensitization techniques"]
+        }
+      },
+      {
+        "condition": "Aortic Aneurysm",
+        "important_notes": {
+          "Common UKMLA Topics": ["Screening criteria (men >65 smokers)", "Asymptomatic vs symptomatic management", "CT angiography for diagnosis"],
+          "Red Flags": ["Ruptured AAA (hypotension, severe pain)", "Expanding aneurysm >5.5cm"],
+          "Management Considerations": ["Surveillance for small aneurysms", "Elective repair if >5.5cm", "Emergent surgery if rupture suspected"]
+        }
+      },
+      {
+        "condition": "Aortic Dissection",
+        "important_notes": {
+          "Common UKMLA Topics": ["Tearing chest pain radiating to back", "Type A vs Type B classification", "Hypertension as key risk factor"],
+          "Red Flags": ["Severe hypotension or syncope", "Neurological deficits (compromised perfusion)", "Widened mediastinum on CXR"],
+          "Management Considerations": ["Beta-blockers to control BP", "Type A: urgent surgery", "Type B: medical management unless complicated"]
+        }
+      },
+      {
+        "condition": "Aortic Valve Disease",
+        "important_notes": {
+          "Common UKMLA Topics": ["Aortic stenosis vs aortic regurgitation", "Murmur characteristics (ejection systolic for stenosis, diastolic for regurgitation)", "Indications for valve replacement"],
+          "Red Flags": ["Severe aortic stenosis (syncope, angina, heart failure symptoms)", "Acute aortic regurgitation causing pulmonary edema"],
+          "Management Considerations": ["Valve replacement for symptomatic severe disease", "Medical management (ACE inhibitors, diuretics) for mild/moderate cases"]
+        }
+      },
+      {
+        "condition": "Appendicitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Classic presentation (periumbilical pain migrating to RLQ)", "Rovsing’s, Psoas, Obturator signs", "Complications: perforation, abscess"],
+          "Red Flags": ["Rebound tenderness and guarding (suggests perforation)", "Sepsis features (tachycardia, hypotension, fever)"] ,
+          "Management Considerations": ["Surgical appendectomy is gold standard", "Antibiotics pre-operatively and in cases of perforation"]
+        }
+      },
+      {
+        "condition": "Arrhythmias",
+        "important_notes": {
+          "Common UKMLA Topics": ["Atrial fibrillation vs ventricular tachycardia", "ECG interpretation (rate, rhythm, axis)", "Pharmacologic vs electrical cardioversion"],
+          "Red Flags": ["Unstable arrhythmia (hypotension, syncope, chest pain)", "Wide-complex tachycardia (VT or torsades)"] ,
+          "Management Considerations": ["Rate control (beta-blockers, CCBs) for AF", "Immediate defibrillation for unstable VT/VF"]
+        }
+      },
+      {
+        "condition": "Arterial Thrombosis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Acute limb ischemia presentation (6 Ps: Pain, Pallor, Pulselessness, Paresthesia, Paralysis, Poikilothermia)", "Embolic vs thrombotic causes", "Anticoagulation indications"],
+          "Red Flags": ["Acute ischemia with neurological deficit", "Severe pain with absent pulses"] ,
+          "Management Considerations": ["Immediate heparin therapy", "Thrombectomy or thrombolysis if indicated"]
+        }
+      },
+      {
+        "condition": "Arterial Ulcers",
+        "important_notes": {
+          "Common UKMLA Topics": ["Arterial vs venous ulcers (location, characteristics)", "Ankle-Brachial Index (ABI) for diagnosis", "Smoking and diabetes as risk factors"],
+          "Red Flags": ["Non-healing ulcer with exposed bone (risk of osteomyelitis)", "Critical limb ischemia (rest pain, gangrene)"] ,
+          "Management Considerations": ["Revascularization for severe ischemia", "Wound care and lifestyle modification"]
+        }
+      },
+      {
+        "condition": "Asbestos-Related Lung Disease",
+        "important_notes": {
+          "Common UKMLA Topics": ["Pleural plaques vs asbestosis vs mesothelioma", "Occupational history (shipyard, construction)", "Association with bronchogenic carcinoma"],
+          "Red Flags": ["Rapidly worsening dyspnea and weight loss (suggests mesothelioma)", "Unilateral pleural effusion in an at-risk patient"] ,
+          "Management Considerations": ["Supportive care for asbestosis", "Palliative chemotherapy for mesothelioma"]
+        }
+      },
+      {
+        "condition": "Ascites",
+        "important_notes": {
+          "Common UKMLA Topics": ["Cirrhosis vs malignancy vs nephrotic syndrome causes", "SAAG (Serum-Ascitic Albumin Gradient) to differentiate causes", "Spontaneous bacterial peritonitis (SBP) recognition"] ,
+          "Red Flags": ["SBP suspected in cirrhotic patient with fever and abdominal pain", "Tense ascites with respiratory distress"] ,
+          "Management Considerations": ["Diuretics (spironolactone + furosemide) for cirrhotic ascites", "Paracentesis for symptomatic relief"]
+        }
+      },
+      {
+        "condition": "Asthma",
+        "important_notes": {
+          "Common UKMLA Topics": ["Acute vs chronic asthma management", "Stepwise therapy (SABA, ICS, LABA)", "Peak flow monitoring"] ,
+          "Red Flags": ["Silent chest or altered consciousness in an acute attack", "Severe exacerbation not responding to initial treatment"] ,
+          "Management Considerations": ["Salbutamol and steroids for acute exacerbations", "Long-term control with inhaled corticosteroids"]
+        }
+      },
+      {
+        "condition": "Asthma COPD Overlap Syndrome",
+        "important_notes": {
+          "Common UKMLA Topics": ["Features of both asthma and COPD", "Spirometry findings (fixed obstruction with reversibility)", "ICS/LABA as first-line treatment"] ,
+          "Red Flags": ["Frequent exacerbations despite therapy", "Hypoxic respiratory failure"] ,
+          "Management Considerations": ["ICS/LABA for long-term control", "Oxygen therapy only if chronic hypoxia"]
+        }
+      },
+      {
+        "condition": "Atopic Dermatitis and Eczema",
+        "important_notes": {
+          "Common UKMLA Topics": ["Triggers (allergens, irritants, weather)", "Topical corticosteroids and emollients as first-line", "Secondary bacterial infections (impetiginized eczema)"] ,
+          "Red Flags": ["Eczema herpeticum (painful vesicles, fever, systemic symptoms)", "Widespread infection requiring antibiotics"] ,
+          "Management Considerations": ["Regular emollients for maintenance", "Topical steroids for flare-ups"]
+        }
+      },
+      {
+        "condition": "Atrophic Vaginitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Postmenopausal vaginal atrophy", "Role of estrogen therapy", "Dyspareunia and urinary symptoms"] ,
+          "Red Flags": ["Unexplained postmenopausal bleeding", "Severe vaginal stenosis or recurrent UTIs"] ,
+          "Management Considerations": ["Topical estrogen therapy", "Lubricants and moisturizers for symptom relief"]
+        }
+      },
+      {
+        "condition": "Attention Deficit Hyperactivity Disorder (ADHD)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Core symptoms: inattention, hyperactivity, impulsivity", "DSM-5 criteria for diagnosis", "Role of stimulant medications (methylphenidate)"],
+          "Red Flags": ["Severe functional impairment requiring behavioral therapy", "Cardiovascular risks with stimulant use"],
+          "Management Considerations": ["Behavioral therapy as first-line in young children", "Methylphenidate or atomoxetine for moderate-severe cases"]
+        }
+      },
+      {
+        "condition": "Autism Spectrum Disorder (ASD)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Early signs: impaired social communication, restricted interests, repetitive behaviors", "Screening tools (M-CHAT)", "Multidisciplinary management"],
+          "Red Flags": ["Regression of speech or social skills", "Severe sensory hypersensitivity impacting daily life"],
+          "Management Considerations": ["Early intervention and speech therapy", "Support for families and individualized education plans"]
+        }
+      },
+      {
+        "condition": "Bacterial Vaginosis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Overgrowth of anaerobic bacteria", "Clue cells on microscopy", "Metronidazole as first-line treatment"],
+          "Red Flags": ["Recurrent infections requiring further investigation", "Pregnancy-related complications (preterm labor)"] ,
+          "Management Considerations": ["Oral or intravaginal metronidazole or clindamycin", "Avoidance of douching and irritants"]
+        }
+      },
+      {
+        "condition": "Basal Cell Carcinoma (BCC)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Slow-growing, locally invasive skin cancer", "Risk factors: UV exposure, fair skin", "Pearly nodules with telangiectasia"],
+          "Red Flags": ["Ulcerated or rapidly growing lesions", "Incomplete excision leading to recurrence"] ,
+          "Management Considerations": ["Surgical excision as first-line treatment", "Topical therapies (imiquimod) for superficial BCC"]
+        }
+      },
+      {
+        "condition": "Bell's Palsy",
+        "important_notes": {
+          "Common UKMLA Topics": ["Acute unilateral facial nerve paralysis", "Idiopathic vs secondary causes (HSV, Lyme disease)", "Differentiate from stroke (forehead involvement)"] ,
+          "Red Flags": ["Bilateral facial palsy (consider Guillain-Barré, Lyme disease)", "Gradual onset (suggests tumor or stroke)"] ,
+          "Management Considerations": ["Oral corticosteroids within 72 hours", "Eye care (lubricants, taping shut at night)"]
+        }
+      },
+      {
+        "condition": "Benign Eyelid Disorders",
+        "important_notes": {
+          "Common UKMLA Topics": ["Chalazion vs hordeolum (stye)", "Blepharitis causes and management", "Ptosis and ectropion"] ,
+          "Red Flags": ["Persistent swelling suggesting malignancy", "Severe pain or vision loss requiring urgent referral"] ,
+          "Management Considerations": ["Warm compresses for chalazion", "Lid hygiene and topical antibiotics for blepharitis"]
+        }
+      },
+      {
+        "condition": "Benign Paroxysmal Positional Vertigo (BPPV)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Brief episodes of vertigo triggered by head movements", "Dix-Hallpike test for diagnosis", "Epley maneuver for treatment"] ,
+          "Red Flags": ["Vertigo with neurological deficits (suggests stroke)", "Persistent vertigo not responding to repositioning maneuvers"] ,
+          "Management Considerations": ["Epley maneuver as first-line treatment", "Vestibular rehabilitation for persistent symptoms"]
+        }
+      },
+      {
+        "condition": "Benign Prostatic Hyperplasia (BPH)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Lower urinary tract symptoms (LUTS)", "Use of IPSS score to assess severity", "Alpha-blockers vs 5-alpha reductase inhibitors"] ,
+          "Red Flags": ["Acute urinary retention requiring catheterization", "Hematuria or weight loss suggesting malignancy"] ,
+          "Management Considerations": ["Alpha-blockers (tamsulosin) for symptom relief", "TURP for severe cases"]
+        }
+      },
+      {
+        "condition": "Biliary Atresia",
+        "important_notes": {
+          "Common UKMLA Topics": ["Neonatal cholestasis with pale stools and dark urine", "Diagnosis with ultrasound and liver biopsy", "Kasai procedure as definitive treatment"] ,
+          "Red Flags": ["Progressive jaundice beyond 2 weeks of age", "Failure to thrive and liver failure signs"] ,
+          "Management Considerations": ["Early surgical intervention (Kasai procedure)", "Liver transplant if progression to cirrhosis"]
+        }
+      },
+      {
+        "condition": "Bipolar Affective Disorder",
+        "important_notes": {
+          "Common UKMLA Topics": ["Manic vs depressive episodes", "Lithium as first-line mood stabilizer", "Risk of rapid cycling and suicide"],
+          "Red Flags": ["Severe mania with psychotic symptoms", "Lithium toxicity (tremors, ataxia, confusion)"],
+          "Management Considerations": ["Mood stabilizers (lithium, valproate, lamotrigine)", "CBT and psychoeducation for relapse prevention"]
+        }
+      },
+      {
+        "condition": "Bladder Cancer",
+        "important_notes": {
+          "Common UKMLA Topics": ["Painless hematuria as key symptom", "Smoking as major risk factor", "Transurethral resection for diagnosis and treatment"],
+          "Red Flags": ["Recurrent or gross hematuria", "Invasive disease requiring radical cystectomy"],
+          "Management Considerations": ["Transurethral resection (TURBT) for superficial tumors", "BCG therapy for non-muscle invasive cancer"]
+        }
+      },
+      {
+        "condition": "Blepharitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Chronic eyelid inflammation", "Staphylococcal vs seborrheic causes", "Management with eyelid hygiene"],
+          "Red Flags": ["Associated with rosacea or meibomian gland dysfunction", "Secondary infection requiring antibiotics"],
+          "Management Considerations": ["Eyelid scrubs and warm compresses", "Topical antibiotics for bacterial cases"]
+        }
+      },
+      {
+        "condition": "Brain Abscess",
+        "important_notes": {
+          "Common UKMLA Topics": ["Headache, fever, focal neurological deficits", "CT/MRI with contrast for diagnosis", "Aspiration and IV antibiotics for treatment"],
+          "Red Flags": ["Increased intracranial pressure (ICP)", "Seizures or rapid neurological deterioration"],
+          "Management Considerations": ["Neurosurgical drainage if large", "Empirical antibiotics covering streptococci and anaerobes"]
+        }
+      },
+      {
+        "condition": "Brain Metastases",
+        "important_notes": {
+          "Common UKMLA Topics": ["Primary sources: lung, breast, melanoma", "MRI for diagnosis", "Steroids and radiotherapy for symptomatic control"],
+          "Red Flags": ["Multiple brain lesions on imaging", "Rapid cognitive decline or raised ICP"],
+          "Management Considerations": ["Dexamethasone for cerebral edema", "Palliative radiotherapy for symptom relief"]
+        }
+      },
+      {
+        "condition": "Breast Abscess/Mastitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Lactational vs non-lactational causes", "Staphylococcus aureus as common pathogen", "Drainage for abscesses"],
+          "Red Flags": ["Recurrent abscesses (consider inflammatory breast cancer)", "Systemic signs of sepsis"] ,
+          "Management Considerations": ["Continued breastfeeding if lactational", "Flucloxacillin for bacterial mastitis"]
+        }
+      },
+      {
+        "condition": "Breast Cancer",
+        "important_notes": {
+          "Common UKMLA Topics": ["BRCA1/BRCA2 mutations and family history", "Triple-negative vs hormone receptor-positive subtypes", "Mammography for screening"],
+          "Red Flags": ["New breast lump with skin changes or nipple retraction", "Axillary lymphadenopathy"] ,
+          "Management Considerations": ["Surgery (lumpectomy or mastectomy)", "Adjuvant chemotherapy, radiotherapy, or hormone therapy based on subtype"]
+        }
+      },
+      {
+        "condition": "Breast Cysts",
+        "important_notes": {
+          "Common UKMLA Topics": ["Benign fluid-filled lesions", "Fluctuating size with menstrual cycle", "Ultrasound for diagnosis"] ,
+          "Red Flags": ["Complex or solid components on imaging", "Bloody aspirate requiring further investigation"] ,
+          "Management Considerations": ["Aspirate if symptomatic", "Follow-up imaging if suspicious features"]
+        }
+      },
+      {
+        "condition": "Bronchiectasis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Permanent dilation of bronchi", "Chronic productive cough with recurrent infections", "High-resolution CT for diagnosis"] ,
+          "Red Flags": ["Massive hemoptysis", "Rapid deterioration with pseudomonal infection"] ,
+          "Management Considerations": ["Airway clearance techniques", "Long-term macrolides for recurrent exacerbations"]
+        }
+      },
+      {
+        "condition": "Bronchiolitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["RSV as leading cause in infants", "Supportive management (oxygen, hydration)", "High-risk infants may need palivizumab prophylaxis"] ,
+          "Red Flags": ["Apnea in young infants", "Severe respiratory distress requiring ICU care"] ,
+          "Management Considerations": ["Oxygen therapy if hypoxic", "No role for steroids or antibiotics unless bacterial co-infection suspected"]
+        }
+      },
+      {
+        "condition": "Bursitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Inflammation of bursa due to repetitive use or trauma", "Common sites: shoulder, elbow, knee", "NSAIDs and rest for treatment"] ,
+          "Red Flags": ["Septic bursitis with erythema and fever", "Recurrent episodes suggesting underlying rheumatoid arthritis"] ,
+          "Management Considerations": ["Aspiration and antibiotics for septic cases", "Corticosteroid injection for persistent inflammation"]
+        }
+      },
+      {
+        "condition": "Candidiasis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Oral, vaginal, and systemic presentations", "Risk factors: immunosuppression, antibiotics, diabetes", "Diagnosis via microscopy and culture"],
+          "Red Flags": ["Disseminated candidiasis in immunocompromised patients", "Recurrent infections requiring further investigation"],
+          "Management Considerations": ["Topical antifungals for localized infections", "Oral fluconazole for systemic involvement"]
+        }
+      },
+      {
+        "condition": "Cardiac Arrest",
+        "important_notes": {
+          "Common UKMLA Topics": ["Basic and advanced life support protocols", "Reversible causes (4Hs and 4Ts)", "Post-resuscitation care"],
+          "Red Flags": ["Pulseless electrical activity (PEA) and asystole", "Recurrent arrests despite treatment"],
+          "Management Considerations": ["Immediate CPR and defibrillation for shockable rhythms", "Adrenaline and amiodarone per ALS guidelines"]
+        }
+      },
+      {
+        "condition": "Cardiac Failure",
+        "important_notes": {
+          "Common UKMLA Topics": ["Heart failure with reduced vs preserved ejection fraction", "BNP as a diagnostic marker", "First-line management with ACE inhibitors and beta-blockers"],
+          "Red Flags": ["Acute decompensated heart failure with pulmonary edema", "Cardiogenic shock requiring inotropes"],
+          "Management Considerations": ["Diuretics for symptom relief", "Device therapy (ICD, CRT) for severe cases"]
+        }
+      },
+      {
+        "condition": "Cataracts",
+        "important_notes": {
+          "Common UKMLA Topics": ["Age-related vs secondary causes (steroids, diabetes, trauma)", "Gradual painless vision loss", "Surgical removal as definitive treatment"],
+          "Red Flags": ["Sudden vision loss suggesting another pathology", "Complications like posterior capsule opacification"] ,
+          "Management Considerations": ["Observation if mild symptoms", "Phacoemulsification with intraocular lens implantation"]
+        }
+      },
+      {
+        "condition": "Cellulitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Common pathogens: Streptococcus, Staphylococcus aureus", "Differentiation from necrotizing fasciitis", "Empirical antibiotic therapy"] ,
+          "Red Flags": ["Rapid progression with systemic symptoms", "Blistering or necrosis suggesting deeper infection"] ,
+          "Management Considerations": ["Flucloxacillin as first-line treatment", "IV antibiotics for severe cases"]
+        }
+      },
+      {
+        "condition": "Central Retinal Arterial Occlusion",
+        "important_notes": {
+          "Common UKMLA Topics": ["Painless sudden vision loss", "Cherry-red spot on fundoscopy", "Urgent ophthalmologic referral"] ,
+          "Red Flags": ["Associated with carotid artery disease or embolism", "Permanent vision loss if untreated"] ,
+          "Management Considerations": ["Ocular massage and reducing intraocular pressure", "Treat underlying vascular risk factors"]
+        }
+      },
+      {
+        "condition": "Cerebral Palsy and Hypoxic-Ischaemic Encephalopathy",
+        "important_notes": {
+          "Common UKMLA Topics": ["Perinatal risk factors (hypoxia, prematurity)", "Spastic, dyskinetic, and ataxic subtypes", "Multidisciplinary management approach"] ,
+          "Red Flags": ["Severe motor and cognitive impairments", "Associated epilepsy and feeding difficulties"] ,
+          "Management Considerations": ["Physiotherapy and occupational therapy", "Symptom management (botulinum toxin for spasticity)"]
+        }
+      },
+      {
+        "condition": "Cervical Cancer",
+        "important_notes": {
+          "Common UKMLA Topics": ["HPV-related etiology (types 16, 18)", "Screening with cytology and HPV testing", "Colposcopy for abnormal smears"] ,
+          "Red Flags": ["Post-coital or intermenstrual bleeding", "Advanced disease with pelvic pain and weight loss"] ,
+          "Management Considerations": ["Surgical excision for early-stage", "Chemoradiotherapy for advanced cases"]
+        }
+      },
+      {
+        "condition": "Cervical Screening (HPV)",
+        "important_notes": {
+          "Common UKMLA Topics": ["NHS screening program guidelines", "Cytology vs HPV primary screening", "Management of abnormal results"] ,
+          "Red Flags": ["Persistent high-risk HPV infections", "CIN3 requiring urgent intervention"] ,
+          "Management Considerations": ["Colposcopy and biopsy for high-grade changes", "HPV vaccination as prevention"]
+        }
+      },
+      {
+        "condition": "Chlamydia",
+        "important_notes": {
+          "Common UKMLA Topics": ["Asymptomatic vs symptomatic presentations", "NAAT as gold standard diagnostic test", "Doxycycline as first-line treatment"] ,
+          "Red Flags": ["Pelvic inflammatory disease in women", "Epididymo-orchitis in men"] ,
+          "Management Considerations": ["Partner notification and screening", "Azithromycin as alternative treatment"]
+        }
+      },
+      {
+        "condition": "Cholecystitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Acute vs chronic cholecystitis", "Murphy’s sign and right upper quadrant pain", "Ultrasound as first-line imaging"],
+          "Red Flags": ["Severe sepsis or peritonitis", "Gallbladder perforation"],
+          "Management Considerations": ["IV antibiotics and fluids", "Early laparoscopic cholecystectomy"]
+        }
+      },
+      {
+        "condition": "Chronic Fatigue Syndrome",
+        "important_notes": {
+          "Common UKMLA Topics": ["Diagnosis of exclusion", "Associated with post-viral syndromes", "Multidisciplinary approach to management"],
+          "Red Flags": ["Sudden onset weight loss or night sweats", "Neurological symptoms suggesting alternative diagnosis"],
+          "Management Considerations": ["Graded exercise therapy", "Cognitive behavioral therapy (CBT)"]
+        }
+      },
+      {
+        "condition": "Chronic Glaucoma",
+        "important_notes": {
+          "Common UKMLA Topics": ["Primary open-angle vs closed-angle glaucoma", "IOP measurement and optic disc cupping", "First-line management with prostaglandin analogs"],
+          "Red Flags": ["Sudden vision loss suggesting acute angle closure", "Very high intraocular pressure"],
+          "Management Considerations": ["Topical beta-blockers or carbonic anhydrase inhibitors", "Laser trabeculoplasty for refractory cases"]
+        }
+      },
+      {
+        "condition": "Chronic Kidney Disease",
+        "important_notes": {
+          "Common UKMLA Topics": ["Stages based on eGFR", "Hypertension and diabetes as major causes", "ACE inhibitors for renal protection"],
+          "Red Flags": ["Rapidly declining renal function", "Severe hyperkalemia or metabolic acidosis"],
+          "Management Considerations": ["Dietary sodium and protein restriction", "Dialysis for end-stage renal disease"]
+        }
+      },
+      {
+        "condition": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "important_notes": {
+          "Common UKMLA Topics": ["Smoking as primary risk factor", "FEV1/FVC ratio <0.7 on spirometry", "Stepwise inhaler therapy (SABA, LABA, ICS)"] ,
+          "Red Flags": ["Acute exacerbation with respiratory failure", "Signs of cor pulmonale"] ,
+          "Management Considerations": ["Smoking cessation support", "Oxygen therapy for chronic hypoxia"]
+        }
+      },
+      {
+        "condition": "Cirrhosis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Alcoholic vs viral vs metabolic causes", "Complications: ascites, varices, encephalopathy", "Liver function tests and ultrasound for diagnosis"] ,
+          "Red Flags": ["Hepatic encephalopathy (confusion, asterixis)", "Variceal bleeding"] ,
+          "Management Considerations": ["Diuretics and paracentesis for ascites", "Beta-blockers for variceal bleeding prophylaxis"]
+        }
+      },
+      {
+        "condition": "Coeliac Disease",
+        "important_notes": {
+          "Common UKMLA Topics": ["Autoimmune reaction to gluten", "Associated with dermatitis herpetiformis", "Diagnosis via anti-TTG antibodies and biopsy"] ,
+          "Red Flags": ["Severe malabsorption and weight loss", "Refractory symptoms despite gluten-free diet"] ,
+          "Management Considerations": ["Strict lifelong gluten-free diet", "Nutritional supplementation (iron, folate, vitamin D)"]
+        }
+      },
+      {
+        "condition": "Colorectal Tumours",
+        "important_notes": {
+          "Common UKMLA Topics": ["Right vs left-sided colorectal cancer symptoms", "Role of colonoscopy and biopsy", "Screening programs and genetic risk factors"] ,
+          "Red Flags": ["Unintentional weight loss and iron-deficiency anemia", "Bowel obstruction symptoms"] ,
+          "Management Considerations": ["Surgical resection for localized disease", "Adjuvant chemotherapy for advanced cases"]
+        }
+      },
+      {
+        "condition": "Compartment Syndrome",
+        "important_notes": {
+          "Common UKMLA Topics": ["Caused by trauma, fractures, tight casts", "6 Ps: Pain, Pallor, Pulselessness, Paresthesia, Paralysis, Poikilothermia", "Definitive diagnosis with compartment pressure measurement"] ,
+          "Red Flags": ["Severe pain not relieved by analgesia", "Delayed treatment leading to muscle necrosis"] ,
+          "Management Considerations": ["Emergency fasciotomy", "Avoid tight dressings or casts"]
+        }
+      },
+      {
+        "condition": "Conjunctivitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Bacterial vs viral vs allergic conjunctivitis", "Red eye with purulent or watery discharge", "Topical antibiotics for bacterial cases"] ,
+          "Red Flags": ["Severe eye pain or photophobia", "Reduced visual acuity suggesting keratitis or uveitis"] ,
+          "Management Considerations": ["Supportive care for viral conjunctivitis", "Antihistamines for allergic conjunctivitis"]
+        }
+      },
+      {
+        "condition": "Constipation",
+        "important_notes": {
+          "Common UKMLA Topics": ["Primary vs secondary causes", "Lifestyle and dietary management", "Laxatives (bulk-forming, osmotic, stimulant)"] ,
+          "Red Flags": ["Unintentional weight loss or rectal bleeding", "Acute severe constipation with abdominal pain (suggests obstruction)"] ,
+          "Management Considerations": ["Increase fiber and fluid intake", "Consider pharmacologic treatment if lifestyle changes fail"]
+        }
+      },
+      {
+        "condition": "Contact Dermatitis",
+        "important_notes": {
+          "Common UKMLA Topics": ["Irritant vs allergic contact dermatitis", "Patch testing for allergic causes", "Topical steroids for management"] ,
+          "Red Flags": ["Widespread severe dermatitis", "Superimposed bacterial infection"] ,
+          "Management Considerations": ["Avoidance of trigger substances", "Emollients and topical corticosteroids"]
+        }
+      },
+      {
+        "condition": "Cord Prolapse",
+        "important_notes": {
+          "Common UKMLA Topics": ["Obstetric emergency", "Variable decelerations on CTG", "Immediate delivery required"] ,
+          "Red Flags": ["Bradycardia and fetal distress", "Umbilical cord visible at the introitus"] ,
+          "Management Considerations": ["Manual elevation of presenting part", "Emergency C-section"]
+        }
+      },
+      {
+        "condition": "COVID-19",
+        "important_notes": {
+          "Common UKMLA Topics": ["SARS-CoV-2 etiology", "Respiratory symptoms and complications", "Supportive care and vaccination"] ,
+          "Red Flags": ["Hypoxia and respiratory distress", "Multisystem inflammatory syndrome (MIS-C)"] ,
+          "Management Considerations": ["Oxygen therapy for hypoxia", "Antiviral and steroid therapy in severe cases"]
+        }
+      },
+    {
+      "condition": "Croup",
+      "important_notes": {
+        "Common UKMLA Topics": ["Viral etiology", "Stridor and respiratory distress", "Management with steroids and nebulized epinephrine"],
+        "Red Flags": ["Severe respiratory distress", "Stridor at rest", "Signs of impending respiratory failure"],
+        "Management Considerations": ["Supportive care", "Nebulized epinephrine", "Corticosteroids for inflammation"]
+      }
+    },
+    {
+      "condition": "Crystal arthropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Gout and pseudogout pathophysiology", "Acute flare management", "Long-term prevention strategies"],
+        "Red Flags": ["Severe pain", "Chronic joint damage", "Renal involvement in gout"],
+        "Management Considerations": ["NSAIDs for acute flares", "Colchicine and corticosteroids", "Long-term urate-lowering therapy"]
+      }
+    },
+    {
+      "condition": "Cushing’s syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Hypercortisolism etiology", "Clinical presentation (moon face, buffalo hump)", "Diagnosis using dexamethasone suppression test"],
+        "Red Flags": ["Severe hyperglycemia", "Hypertension", "Severe muscle wasting and osteoporosis"],
+        "Management Considerations": ["Surgical removal of adrenal tumors", "Steroidogenesis inhibitors", "Pituitary surgery for Cushing's disease"]
+      }
+    },
+    {
+      "condition": "Cutaneous fungal infection",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types of fungal infections (dermatophytes, Candida)", "Risk factors (immunocompromised states)", "Topical antifungal treatment"],
+        "Red Flags": ["Severe or widespread infection", "Signs of systemic involvement", "Non-healing lesions"],
+        "Management Considerations": ["Topical antifungal agents", "Oral antifungal therapy for severe cases", "Prevention strategies"]
+      }
+    },
+    {
+      "condition": "Cutaneous warts",
+      "important_notes": {
+        "Common UKMLA Topics": ["Human papillomavirus (HPV) etiology", "Treatment options (cryotherapy, salicylic acid)", "Management of recurrent warts"],
+        "Red Flags": ["Large or rapidly growing warts", "Painful or bleeding warts", "Immune system dysfunction"],
+        "Management Considerations": ["Cryotherapy", "Topical treatments (salicylic acid, imiquimod)", "Surgical removal for resistant cases"]
+      }
+    },
+    {
+      "condition": "Cystic fibrosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["CFTR gene mutations", "Pulmonary and gastrointestinal symptoms", "Sweat chloride test for diagnosis"],
+        "Red Flags": ["Respiratory failure", "Chronic infections (Pseudomonas, Staphylococcus aureus)", "Malnutrition and failure to thrive"],
+        "Management Considerations": ["Chest physiotherapy", "Inhaled antibiotics", "Nutritional support and enzyme replacement"]
+      }
+    },
+    {
+      "condition": "Deep vein thrombosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Virchow's triad", "Risk factors (immobility, surgery, pregnancy)", "Diagnosis with ultrasound"],
+        "Red Flags": ["Pulmonary embolism", "Massive DVT causing limb swelling", "Severe pain and erythema"],
+        "Management Considerations": ["Anticoagulation (heparin, warfarin, DOACs)", "Thrombolysis in severe cases", "Compression stockings to prevent post-thrombotic syndrome"]
+      }
+    },
+    {
+      "condition": "Dehydration",
+      "important_notes": {
+        "Common UKMLA Topics": ["Causes (vomiting, diarrhea, excessive sweating)", "Electrolyte imbalances", "Rehydration therapy"],
+        "Red Flags": ["Severe hypotension", "Altered mental status", "Kidney failure signs"],
+        "Management Considerations": ["Oral rehydration solutions", "Intravenous fluids in severe cases", "Electrolyte correction (potassium, sodium)"]
+      }
+    },
+    {
+      "condition": "Delirium",
+      "important_notes": {
+        "Common UKMLA Topics": ["Etiology (infection, medications, metabolic disturbances)", "Acute onset and fluctuating mental status", "Screening with CAM (Confusion Assessment Method)"],
+        "Red Flags": ["Acute onset confusion", "Inability to stay oriented", "Worsening vital signs"],
+        "Management Considerations": ["Treat underlying causes", "Haloperidol for agitation", "Environmental modifications (e.g., regular orientation cues)"]
+      }
+    },
+    {
+      "condition": "Dementias",
+      "important_notes": {
+        "Common UKMLA Topics": ["Alzheimer’s disease pathophysiology", "Vascular dementia and mixed dementia", "Management of cognitive symptoms with acetylcholinesterase inhibitors"],
+        "Red Flags": ["Rapid cognitive decline", "Behavioral changes", "Functional impairment affecting daily life"],
+        "Management Considerations": ["Cognitive enhancers (donepezil, rivastigmine)", "Supportive care", "Management of behavioral symptoms (antipsychotics, mood stabilizers)"]
+      }
+    },
+    {
+      "condition": "Depression",
+      "important_notes": {
+        "Common UKMLA Topics": ["Major depressive disorder etiology", "Depression screening (PHQ-9)", "Management with antidepressants and psychotherapy"],
+        "Red Flags": ["Suicidal ideation", "Severe functional impairment", "Psychotic features (delusions, hallucinations)"],
+        "Management Considerations": ["SSRIs and SNRIs for treatment", "Cognitive-behavioral therapy (CBT)", "Electroconvulsive therapy (ECT) in refractory cases"]
+      }
+    },
+    {
+      "condition": "Developmental delay",
+      "important_notes": {
+        "Common UKMLA Topics": ["Causes (genetic, prenatal, environmental)", "Milestone delays", "Early intervention strategies"],
+        "Red Flags": ["Significant delays in motor, language, and social milestones", "Failure to thrive", "Autism spectrum disorder (ASD) features"],
+        "Management Considerations": ["Speech therapy, occupational therapy", "Genetic counseling", "Behavioral therapy for specific delays"]
+      }
+    },
+    {
+      "condition": "Diabetes insipidus",
+      "important_notes": {
+        "Common UKMLA Topics": ["ADH deficiency (central DI) vs resistance (nephrogenic DI)", "Polyuria and polydipsia", "Water deprivation test for diagnosis"],
+        "Red Flags": ["Severe dehydration", "Electrolyte imbalances", "Hypernatremia"],
+        "Management Considerations": ["Desmopressin (for central DI)", "Thiazide diuretics and low-salt diet (for nephrogenic DI)", "Monitoring of fluid and electrolyte status"]
+      }
+    },
+    {
+      "condition": "Diabetes mellitus type 1 and 2",
+      "important_notes": {
+        "Common UKMLA Topics": ["Insulin deficiency in type 1 vs insulin resistance in type 2", "Diagnosis through HbA1c, fasting glucose", "Management with insulin and oral hypoglycemics"],
+        "Red Flags": ["Hyperglycemia or hypoglycemia", "Diabetic ketoacidosis (DKA)", "Severe complications like diabetic foot or retinopathy"],
+        "Management Considerations": ["Insulin therapy for type 1", "Metformin and other oral agents for type 2", "Lifestyle modifications (diet, exercise)"]
+      }
+    },
+    {
+      "condition": "Diabetic eye disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diabetic retinopathy pathophysiology", "Screening and early detection", "Management with laser therapy or anti-VEGF agents"],
+        "Red Flags": ["Sudden vision loss", "Retinal hemorrhages", "Macular edema"],
+        "Management Considerations": ["Annual screening for retinopathy", "Laser photocoagulation", "Intravitreal injections for macular edema"]
+      }
+    },
+    {
+      "condition": "Diabetic ketoacidosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology of DKA (insulin deficiency, hyperglycemia, ketogenesis)", "Acidosis and electrolyte imbalances", "Management with fluids, insulin, and electrolytes"],
+        "Red Flags": ["Severe hyperglycemia", "Kussmaul breathing", "Altered mental status"],
+        "Management Considerations": ["Fluid resuscitation", "Insulin infusion", "Electrolyte replacement (especially potassium)"]
+      }
+    },
+    {
+      "condition": "Diabetic nephropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (glomerular basement membrane thickening, mesangial expansion)", "Microalbuminuria as an early sign", "Management with ACE inhibitors or ARBs"],
+        "Red Flags": ["Rapid decline in kidney function", "Nephrotic syndrome", "Severe proteinuria"],
+        "Management Considerations": ["Blood pressure control", "Angiotensin converting enzyme (ACE) inhibitors", "Dialysis in end-stage renal disease"]
+      }
+    },
+    {
+      "condition": "Diabetic neuropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types (sensorimotor, autonomic)", "Burning or tingling sensation in hands/feet", "Management with glycemic control and pain relief"],
+        "Red Flags": ["Severe neuropathic pain", "Foot ulcers due to lack of sensation", "Autonomic dysfunction (orthostatic hypotension)"],
+        "Management Considerations": ["Glycemic control", "Pain management (gabapentin, pregabalin)", "Foot care and prevention of complications"]
+      }
+    },
+    {
+      "condition": "Disease prevention/screening",
+      "important_notes": {
+        "Common UKMLA Topics": ["Screening for common conditions (cancer, diabetes, hypertension)", "Vaccination schedules", "Health promotion strategies"],
+        "Red Flags": ["Failure to screen in high-risk populations", "Delayed diagnosis of preventable diseases", "Noncompliance with vaccinations"],
+        "Management Considerations": ["National screening programs", "Targeted screening in high-risk groups", "Education on lifestyle modifications and vaccination schedules"]
+      }
+    },
+    {
+      "condition": "Disseminated intravascular coagulation",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (widespread clotting and bleeding)", "Triggers (sepsis, trauma, malignancy)", "Diagnosis with D-dimer, PT, aPTT"],
+        "Red Flags": ["Severe bleeding (e.g., mucosal, organ failure)", "Sepsis and infection", "Acute multi-organ failure"],
+        "Management Considerations": ["Treatment of underlying cause", "Blood product transfusion", "Heparin in certain cases to prevent clotting"]
+      }
+    },
+    {
+      "condition": "Diverticular disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (pouch formation in the colon)", "Symptoms of diverticulosis vs diverticulitis", "Management with dietary changes and antibiotics"],
+        "Red Flags": ["Severe abdominal pain", "Fever and leukocytosis", "Signs of perforation or peritonitis"],
+        "Management Considerations": ["High-fiber diet", "Antibiotics for diverticulitis", "Surgical intervention for complications like perforation or abscess"]
+      }
+    },
+    {
+      "condition": "Depression",
+      "important_notes": {
+        "Common UKMLA Topics": ["Major depressive disorder etiology", "Depression screening (PHQ-9)", "Management with antidepressants and psychotherapy"],
+        "Red Flags": ["Suicidal ideation", "Severe functional impairment", "Psychotic features (delusions, hallucinations)"],
+        "Management Considerations": ["SSRIs and SNRIs for treatment", "Cognitive-behavioral therapy (CBT)", "Electroconvulsive therapy (ECT) in refractory cases"]
+      }
+    },
+    {
+      "condition": "Developmental delay",
+      "important_notes": {
+        "Common UKMLA Topics": ["Causes (genetic, prenatal, environmental)", "Milestone delays", "Early intervention strategies"],
+        "Red Flags": ["Significant delays in motor, language, and social milestones", "Failure to thrive", "Autism spectrum disorder (ASD) features"],
+        "Management Considerations": ["Speech therapy, occupational therapy", "Genetic counseling", "Behavioral therapy for specific delays"]
+      }
+    },
+    {
+      "condition": "Diabetes insipidus",
+      "important_notes": {
+        "Common UKMLA Topics": ["ADH deficiency (central DI) vs resistance (nephrogenic DI)", "Polyuria and polydipsia", "Water deprivation test for diagnosis"],
+        "Red Flags": ["Severe dehydration", "Electrolyte imbalances", "Hypernatremia"],
+        "Management Considerations": ["Desmopressin (for central DI)", "Thiazide diuretics and low-salt diet (for nephrogenic DI)", "Monitoring of fluid and electrolyte status"]
+      }
+    },
+    {
+      "condition": "Diabetes mellitus type 1 and 2",
+      "important_notes": {
+        "Common UKMLA Topics": ["Insulin deficiency in type 1 vs insulin resistance in type 2", "Diagnosis through HbA1c, fasting glucose", "Management with insulin and oral hypoglycemics"],
+        "Red Flags": ["Hyperglycemia or hypoglycemia", "Diabetic ketoacidosis (DKA)", "Severe complications like diabetic foot or retinopathy"],
+        "Management Considerations": ["Insulin therapy for type 1", "Metformin and other oral agents for type 2", "Lifestyle modifications (diet, exercise)"]
+      }
+    },
+    {
+      "condition": "Diabetic eye disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diabetic retinopathy pathophysiology", "Screening and early detection", "Management with laser therapy or anti-VEGF agents"],
+        "Red Flags": ["Sudden vision loss", "Retinal hemorrhages", "Macular edema"],
+        "Management Considerations": ["Annual screening for retinopathy", "Laser photocoagulation", "Intravitreal injections for macular edema"]
+      }
+    },
+    {
+      "condition": "Diabetic ketoacidosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology of DKA (insulin deficiency, hyperglycemia, ketogenesis)", "Acidosis and electrolyte imbalances", "Management with fluids, insulin, and electrolytes"],
+        "Red Flags": ["Severe hyperglycemia", "Kussmaul breathing", "Altered mental status"],
+        "Management Considerations": ["Fluid resuscitation", "Insulin infusion", "Electrolyte replacement (especially potassium)"]
+      }
+    },
+    {
+      "condition": "Diabetic nephropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (glomerular basement membrane thickening, mesangial expansion)", "Microalbuminuria as an early sign", "Management with ACE inhibitors or ARBs"],
+        "Red Flags": ["Rapid decline in kidney function", "Nephrotic syndrome", "Severe proteinuria"],
+        "Management Considerations": ["Blood pressure control", "Angiotensin converting enzyme (ACE) inhibitors", "Dialysis in end-stage renal disease"]
+      }
+    },
+    {
+      "condition": "Diabetic neuropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types (sensorimotor, autonomic)", "Burning or tingling sensation in hands/feet", "Management with glycemic control and pain relief"],
+        "Red Flags": ["Severe neuropathic pain", "Foot ulcers due to lack of sensation", "Autonomic dysfunction (orthostatic hypotension)"],
+        "Management Considerations": ["Glycemic control", "Pain management (gabapentin, pregabalin)", "Foot care and prevention of complications"]
+      }
+    },
+    {
+      "condition": "Disease prevention/screening",
+      "important_notes": {
+        "Common UKMLA Topics": ["Screening for common conditions (cancer, diabetes, hypertension)", "Vaccination schedules", "Health promotion strategies"],
+        "Red Flags": ["Failure to screen in high-risk populations", "Delayed diagnosis of preventable diseases", "Noncompliance with vaccinations"],
+        "Management Considerations": ["National screening programs", "Targeted screening in high-risk groups", "Education on lifestyle modifications and vaccination schedules"]
+      }
+    },
+    {
+      "condition": "Disseminated intravascular coagulation",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (widespread clotting and bleeding)", "Triggers (sepsis, trauma, malignancy)", "Diagnosis with D-dimer, PT, aPTT"],
+        "Red Flags": ["Severe bleeding (e.g., mucosal, organ failure)", "Sepsis and infection", "Acute multi-organ failure"],
+        "Management Considerations": ["Treatment of underlying cause", "Blood product transfusion", "Heparin in certain cases to prevent clotting"]
+      }
+    },
+    {
+      "condition": "Diverticular disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (pouch formation in the colon)", "Symptoms of diverticulosis vs diverticulitis", "Management with dietary changes and antibiotics"],
+        "Red Flags": ["Severe abdominal pain", "Fever and leukocytosis", "Signs of perforation or peritonitis"],
+        "Management Considerations": ["High-fiber diet", "Antibiotics for diverticulitis", "Surgical intervention for complications like perforation or abscess"]
+      }
+    },
+    {
+      "condition": "Depression",
+      "important_notes": {
+        "Common UKMLA Topics": ["Major depressive disorder etiology", "Depression screening (PHQ-9)", "Management with antidepressants and psychotherapy"],
+        "Red Flags": ["Suicidal ideation", "Severe functional impairment", "Psychotic features (delusions, hallucinations)"],
+        "Management Considerations": ["SSRIs and SNRIs for treatment", "Cognitive-behavioral therapy (CBT)", "Electroconvulsive therapy (ECT) in refractory cases"]
+      }
+    },
+    {
+      "condition": "Developmental delay",
+      "important_notes": {
+        "Common UKMLA Topics": ["Causes (genetic, prenatal, environmental)", "Milestone delays", "Early intervention strategies"],
+        "Red Flags": ["Significant delays in motor, language, and social milestones", "Failure to thrive", "Autism spectrum disorder (ASD) features"],
+        "Management Considerations": ["Speech therapy, occupational therapy", "Genetic counseling", "Behavioral therapy for specific delays"]
+      }
+    },
+    {
+      "condition": "Diabetes insipidus",
+      "important_notes": {
+        "Common UKMLA Topics": ["ADH deficiency (central DI) vs resistance (nephrogenic DI)", "Polyuria and polydipsia", "Water deprivation test for diagnosis"],
+        "Red Flags": ["Severe dehydration", "Electrolyte imbalances", "Hypernatremia"],
+        "Management Considerations": ["Desmopressin (for central DI)", "Thiazide diuretics and low-salt diet (for nephrogenic DI)", "Monitoring of fluid and electrolyte status"]
+      }
+    },
+    {
+      "condition": "Diabetes mellitus type 1 and 2",
+      "important_notes": {
+        "Common UKMLA Topics": ["Insulin deficiency in type 1 vs insulin resistance in type 2", "Diagnosis through HbA1c, fasting glucose", "Management with insulin and oral hypoglycemics"],
+        "Red Flags": ["Hyperglycemia or hypoglycemia", "Diabetic ketoacidosis (DKA)", "Severe complications like diabetic foot or retinopathy"],
+        "Management Considerations": ["Insulin therapy for type 1", "Metformin and other oral agents for type 2", "Lifestyle modifications (diet, exercise)"]
+      }
+    },
+    {
+      "condition": "Diabetic eye disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diabetic retinopathy pathophysiology", "Screening and early detection", "Management with laser therapy or anti-VEGF agents"],
+        "Red Flags": ["Sudden vision loss", "Retinal hemorrhages", "Macular edema"],
+        "Management Considerations": ["Annual screening for retinopathy", "Laser photocoagulation", "Intravitreal injections for macular edema"]
+      }
+    },
+    {
+      "condition": "Diabetic ketoacidosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology of DKA (insulin deficiency, hyperglycemia, ketogenesis)", "Acidosis and electrolyte imbalances", "Management with fluids, insulin, and electrolytes"],
+        "Red Flags": ["Severe hyperglycemia", "Kussmaul breathing", "Altered mental status"],
+        "Management Considerations": ["Fluid resuscitation", "Insulin infusion", "Electrolyte replacement (especially potassium)"]
+      }
+    },
+    {
+      "condition": "Diabetic nephropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (glomerular basement membrane thickening, mesangial expansion)", "Microalbuminuria as an early sign", "Management with ACE inhibitors or ARBs"],
+        "Red Flags": ["Rapid decline in kidney function", "Nephrotic syndrome", "Severe proteinuria"],
+        "Management Considerations": ["Blood pressure control", "Angiotensin converting enzyme (ACE) inhibitors", "Dialysis in end-stage renal disease"]
+      }
+    },
+    {
+      "condition": "Diabetic neuropathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types (sensorimotor, autonomic)", "Burning or tingling sensation in hands/feet", "Management with glycemic control and pain relief"],
+        "Red Flags": ["Severe neuropathic pain", "Foot ulcers due to lack of sensation", "Autonomic dysfunction (orthostatic hypotension)"],
+        "Management Considerations": ["Glycemic control", "Pain management (gabapentin, pregabalin)", "Foot care and prevention of complications"]
+      }
+    },
+    {
+      "condition": "Disease prevention/screening",
+      "important_notes": {
+        "Common UKMLA Topics": ["Screening for common conditions (cancer, diabetes, hypertension)", "Vaccination schedules", "Health promotion strategies"],
+        "Red Flags": ["Failure to screen in high-risk populations", "Delayed diagnosis of preventable diseases", "Noncompliance with vaccinations"],
+        "Management Considerations": ["National screening programs", "Targeted screening in high-risk groups", "Education on lifestyle modifications and vaccination schedules"]
+      }
+    },
+    {
+      "condition": "Disseminated intravascular coagulation",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (widespread clotting and bleeding)", "Triggers (sepsis, trauma, malignancy)", "Diagnosis with D-dimer, PT, aPTT"],
+        "Red Flags": ["Severe bleeding (e.g., mucosal, organ failure)", "Sepsis and infection", "Acute multi-organ failure"],
+        "Management Considerations": ["Treatment of underlying cause", "Blood product transfusion", "Heparin in certain cases to prevent clotting"]
+      }
+    },
+    {
+      "condition": "Diverticular disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Pathophysiology (pouch formation in the colon)", "Symptoms of diverticulosis vs diverticulitis", "Management with dietary changes and antibiotics"],
+        "Red Flags": ["Severe abdominal pain", "Fever and leukocytosis", "Signs of perforation or peritonitis"],
+        "Management Considerations": ["High-fiber diet", "Antibiotics for diverticulitis", "Surgical intervention for complications like perforation or abscess"]
+      }
+    },
+    {
+      "condition": "Down's syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Trisomy 21 etiology", "Physical and developmental features (hypotonia, intellectual disability)", "Screening and prenatal diagnosis (NIPT, amniocentesis)"],
+        "Red Flags": ["Severe developmental delay", "Congenital heart defects", "Leukemia in childhood"],
+        "Management Considerations": ["Early intervention programs", "Speech and occupational therapy", "Screening for associated conditions (cardiac, thyroid)"]
+      }
+    },
+    {
+      "condition": "Drug overdose",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types of overdose (opioids, benzodiazepines, alcohol)", "Toxicology and management (activated charcoal, antidotes)", "Management of acute poisoning (ABC approach)"],
+        "Red Flags": ["Respiratory depression", "Severe altered mental status", "Cardiac arrhythmias"],
+        "Management Considerations": ["Naloxone for opioid overdose", "Flumazenil for benzodiazepine overdose", "Supportive care (IV fluids, oxygen)"]
+      }
+    },
+    {
+      "condition": "Eating disorders",
+      "important_notes": {
+        "Common UKMLA Topics": ["Anorexia nervosa, bulimia nervosa, binge eating disorder", "Psychological and physical effects (malnutrition, electrolyte imbalance)", "Management with psychotherapy and nutritional rehabilitation"],
+        "Red Flags": ["Severe weight loss or gain", "Electrolyte disturbances", "Suicidal ideation"],
+        "Management Considerations": ["Cognitive behavioral therapy (CBT)", "Nutritional rehabilitation", "Psychiatric care for co-occurring mental health issues"]
+      }
+    },
+    {
+      "condition": "Ectopic pregnancy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Implantation of the embryo outside the uterus", "Risk factors (previous ectopic pregnancy, tubal surgery, pelvic inflammatory disease)", "Diagnosis with beta-hCG and ultrasound"],
+        "Red Flags": ["Severe pelvic pain", "Vaginal bleeding", "Signs of shock (hypotension, tachycardia)"],
+        "Management Considerations": ["Methotrexate for early, stable cases", "Surgical intervention (laparoscopy) for ruptured ectopic pregnancy", "Monitoring of beta-hCG levels"]
+      }
+    },
+    {
+      "condition": "Encephalitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the brain caused by viral infections (herpes simplex virus, arboviruses)", "Clinical features (fever, altered mental status, focal neurological signs)", "Diagnosis with MRI and CSF analysis"],
+        "Red Flags": ["Severe altered mental status", "Seizures", "Signs of increased intracranial pressure (ICP)"],
+        "Management Considerations": ["Antiviral therapy (acyclovir for HSV encephalitis)", "Supportive care (ICU monitoring)", "Management of ICP and seizures"]
+      }
+    },
+    {
+      "condition": "Endometrial cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Risk factors (obesity, hormonal replacement therapy, age)", "Presentation (abnormal vaginal bleeding)", "Diagnosis with transvaginal ultrasound and endometrial biopsy"],
+        "Red Flags": ["Postmenopausal bleeding", "Abnormal Pap smear", "Pelvic mass or pain"],
+        "Management Considerations": ["Surgical treatment (hysterectomy)", "Adjuvant therapy (radiotherapy, chemotherapy)", "Hormonal therapy (progesterone) for early-stage disease"]
+      }
+    },
+    {
+      "condition": "Endometriosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Presence of endometrial tissue outside the uterus", "Symptoms (pelvic pain, dysmenorrhea, infertility)", "Diagnosis with laparoscopy"],
+        "Red Flags": ["Severe pelvic pain", "Infertility", "Bowel or urinary symptoms due to endometriotic lesions"],
+        "Management Considerations": ["Pain management (NSAIDs, hormonal therapy)", "Surgical management (laparoscopic excision)", "Fertility treatment options"]
+      }
+    },
+    {
+      "condition": "Epididymitis and orchitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the epididymis and/or testes", "Causes (sexually transmitted infections, UTI, trauma)", "Diagnosis with clinical examination, ultrasound"],
+        "Red Flags": ["Severe testicular pain", "Fever and chills", "Signs of abscess or testicular torsion"],
+        "Management Considerations": ["Antibiotic therapy (fluoroquinolones, doxycycline)", "Pain management (NSAIDs, ice packs)", "Surgical drainage if abscess develops"]
+      }
+    },
+    {
+      "condition": "Epiglottitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation and swelling of the epiglottis, often due to bacterial infection (Haemophilus influenzae)", "Clinical presentation (fever, drooling, stridor, difficulty swallowing)", "Diagnosis with laryngoscopy"],
+        "Red Flags": ["Severe respiratory distress", "Stridor", "Drooling and inability to swallow"],
+        "Management Considerations": ["Secure the airway (intubation if needed)", "Antibiotic therapy (ceftriaxone, cefotaxime)", "Steroids to reduce inflammation"]
+      }
+    },
+    {
+      "condition": "Epilepsy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Types of seizures (generalized, focal)", "Diagnosis with EEG, MRI, and clinical history", "Management with antiepileptic drugs (AEDs)"],
+        "Red Flags": ["Status epilepticus", "New onset seizures in adults", "Severe neurological impairment post-seizure"],
+        "Management Considerations": ["Antiepileptic drugs (phenytoin, valproate, levetiracetam)", "Lifestyle modifications", "Surgical options for refractory cases"]
+      }
+    },
+    {
+      "condition": "Epistaxis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Causes (trauma, dry air, hypertension, bleeding disorders)", "Management with anterior and posterior nasal packing", "Prevention strategies (humidification, nasal saline)"],
+        "Red Flags": ["Severe, recurrent epistaxis", "Signs of bleeding disorder", "Hypotension from blood loss"],
+        "Management Considerations": ["Nasal decongestants, cautery for anterior bleeds", "Posterior packing or balloon tamponade for posterior bleeds", "Coagulation studies if bleeding disorder suspected"]
+      }
+    },
+    {
+      "condition": "Essential or secondary hypertension",
+      "important_notes": {
+        "Common UKMLA Topics": ["Primary (essential) hypertension vs secondary hypertension", "Risk factors (age, obesity, family history, smoking)", "Diagnosis with blood pressure measurement, 24-hour ambulatory BP monitoring"],
+        "Red Flags": ["Severe headache", "Blurred vision", "Hypertensive crisis (end-organ damage)"],
+        "Management Considerations": ["Lifestyle modifications (diet, exercise)", "Antihypertensive drugs (ACE inhibitors, diuretics, beta-blockers)", "Screening for secondary causes (e.g., renal artery stenosis, pheochromocytoma)"]
+      }
+    },
+    {
+      "condition": "Essential tremor",
+      "important_notes": {
+        "Common UKMLA Topics": ["A benign neurological disorder, typically affecting the hands", "Risk factors (family history, age)", "Diagnosis with clinical examination and exclusion of other causes"],
+        "Red Flags": ["Progressive worsening of tremor", "Tremor affecting other parts of the body", "Functional impairment"],
+        "Management Considerations": ["Propranolol for symptom control", "Primidone or gabapentin", "Deep brain stimulation in refractory cases"]
+      }
+    },
+    {
+      "condition": "Extradural haemorrhage",
+      "important_notes": {
+        "Common UKMLA Topics": ["Bleeding between the skull and the dura mater, often due to trauma", "Classic presentation with a brief loss of consciousness followed by a lucid interval", "Diagnosis with CT scan"],
+        "Red Flags": ["Headache, vomiting, and confusion", "Severe neurological deficit", "Signs of increased intracranial pressure (ICP)"],
+        "Management Considerations": ["Urgent surgical evacuation of the hematoma", "Management of ICP", "Neurological monitoring in ICU"]
+      }
+    },
+    {
+      "condition": "Febrile convulsion",
+      "important_notes": {
+        "Common UKMLA Topics": ["Seizures in children associated with fever, usually between 6 months and 5 years of age", "Diagnosis is typically clinical, with no underlying structural abnormality", "Management focuses on treating the fever and preventing further seizures"],
+        "Red Flags": ["Prolonged seizure (more than 5 minutes)", "Severe neurological symptoms post-convulsion", "History of developmental delay or neurological disorder"],
+        "Management Considerations": ["Antipyretics to control fever", "Reassurance for parents", "Antiepileptic drugs if seizures last longer than 5 minutes"]
+      }
+    },
+    {
+      "condition": "Fibroadenoma",
+      "important_notes": {
+        "Common UKMLA Topics": ["Benign breast tumor, common in young women", "Diagnosis with ultrasound or mammogram", "Excision or monitoring based on symptoms and size"],
+        "Red Flags": ["Rapid growth of the lump", "Painful lump or associated skin changes", "History of breast cancer in the family"],
+        "Management Considerations": ["Fine needle aspiration (FNA) or biopsy if needed", "Surgical excision if symptomatic", "Regular monitoring for any changes"]
+      }
+    },
+    {
+      "condition": "Fibroids",
+      "important_notes": {
+        "Common UKMLA Topics": ["Benign uterine tumors, common in women of reproductive age", "Symptoms may include heavy menstrual bleeding, pelvic pain, or infertility", "Diagnosis with pelvic ultrasound"],
+        "Red Flags": ["Heavy menstrual bleeding or anemia", "Severe pelvic pain", "Signs of torsion or degeneration of fibroids"],
+        "Management Considerations": ["Conservative management (hormonal therapy, IUD)", "Surgical options (myomectomy, hysterectomy)", "Embolization or focused ultrasound in certain cases"]
+      }
+    },
+    {
+      "condition": "Fibromyalgia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic widespread musculoskeletal pain, fatigue, and sleep disturbances", "Diagnosis based on clinical criteria (tender points, exclusion of other causes)", "Management with a multidisciplinary approach including physical therapy and medication"],
+        "Red Flags": ["Severe, disabling pain", "Symptoms resistant to first-line treatment", "Signs of associated depression or anxiety"],
+        "Management Considerations": ["Pain management (NSAIDs, antidepressants, anticonvulsants)", "Physical therapy and exercise", "Cognitive behavioral therapy (CBT)"]
+      }
+    },
+    {
+      "condition": "Fibrotic lung disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Interstitial lung diseases (ILD), including idiopathic pulmonary fibrosis (IPF)", "Symptoms include chronic dry cough, dyspnea, and clubbing", "Diagnosis with high-resolution CT scan and pulmonary function tests"],
+        "Red Flags": ["Progressive dyspnea", "Hypoxemia", "Right heart failure (cor pulmonale)"],
+        "Management Considerations": ["Antifibrotic therapy (pirfenidone, nintedanib)", "Oxygen therapy", "Lung transplantation in advanced cases"]
+      }
+    },
+    {
+      "condition": "Folliculitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of hair follicles, often due to bacterial infection (Staphylococcus aureus)", "Risk factors (shaving, sweat, friction)", "Diagnosis with clinical examination"],
+        "Red Flags": ["Fever and systemic symptoms", "Abscess formation", "Worsening despite treatment"],
+        "Management Considerations": ["Topical antibiotics (mupirocin)", "Oral antibiotics for severe cases (dicloxacillin, cephalexin)", "Good hygiene and prevention"]
+      }
+    },
+    {
+      "condition": "Gallstones and biliary colic",
+      "important_notes": {
+        "Common UKMLA Topics": ["Cholelithiasis (gallstones) and its complications", "Symptoms include right upper quadrant pain, nausea", "Diagnosis with ultrasound"],
+        "Red Flags": ["Acute biliary colic with fever", "Jaundice", "Signs of cholecystitis or pancreatitis"],
+        "Management Considerations": ["Cholecystectomy (surgical removal of gallbladder)", "Pain management (NSAIDs, opioids)", "Management of complications (e.g., bile duct obstruction)"]
+      }
+    },
+    {
+      "condition": "Gangrene",
+      "important_notes": {
+        "Common UKMLA Topics": ["Tissue death due to infection, ischemia, or trauma", "Types: dry, wet, gas gangrene", "Diagnosis based on clinical presentation, imaging, and microbiology"],
+        "Red Flags": ["Severe pain and swelling", "Foul-smelling discharge", "Signs of sepsis"],
+        "Management Considerations": ["Surgical debridement of necrotic tissue", "Antibiotic therapy (broad-spectrum for polymicrobial infection)", "Supportive care (IV fluids, sepsis management)"]
+      }
+    },
+    {
+      "condition": "Gastric cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Risk factors (Helicobacter pylori, smoking, family history)", "Symptoms (abdominal pain, weight loss, nausea, dyspepsia)", "Diagnosis with endoscopy and biopsy"],
+        "Red Flags": ["Unexplained weight loss", "Persistent vomiting", "Signs of metastasis (e.g., ascites, jaundice)"],
+        "Management Considerations": ["Surgical resection (gastrectomy)", "Chemotherapy and radiotherapy for advanced cases", "H. pylori eradication if applicable"]
+      }
+    },
+    {
+      "condition": "Gastrointestinal perforation",
+      "important_notes": {
+        "Common UKMLA Topics": ["Hollow organ rupture leading to peritonitis", "Causes (peptic ulcer disease, diverticulitis, trauma)", "Diagnosis with clinical signs and imaging (CT scan)"],
+        "Red Flags": ["Severe abdominal pain and rigidity", "Fever and tachycardia", "Signs of shock"],
+        "Management Considerations": ["Surgical repair", "Broad-spectrum antibiotics", "Supportive care (IV fluids, pain management)"]
+      }
+    },
+    {
+      "condition": "Gastro-oesophageal reflux disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic acid reflux leading to mucosal damage", "Symptoms (heartburn, regurgitation, dysphagia)", "Diagnosis with clinical history, endoscopy, and pH monitoring"],
+        "Red Flags": ["Dysphagia or odynophagia", "Unexplained weight loss", "Signs of complications (e.g., esophagitis, Barrett's esophagus)"],
+        "Management Considerations": ["Lifestyle modifications (weight loss, elevating head of bed)", "Proton pump inhibitors (PPIs)", "Surgical options (fundoplication) for refractory cases"]
+      }
+    },
+    {
+      "condition": "Gonorrhoea",
+      "important_notes": {
+        "Common UKMLA Topics": ["Sexually transmitted infection caused by Neisseria gonorrhoeae", "Symptoms (urethritis, cervicitis, discharge)", "Diagnosis with PCR or culture"],
+        "Red Flags": ["Pelvic inflammatory disease (PID)", "Disseminated gonococcal infection", "Severe pain or fever"],
+        "Management Considerations": ["Dual therapy with ceftriaxone and azithromycin", "Partner notification and treatment", "Prevention with safe sexual practices"]
+      }
+    },
+    {
+      "condition": "Haemochromatosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inherited disorder leading to iron overload", "Symptoms (fatigue, joint pain, skin pigmentation, diabetes)", "Diagnosis with serum ferritin and transferrin saturation"],
+        "Red Flags": ["Cirrhosis or liver failure", "Cardiomyopathy", "Diabetes mellitus"],
+        "Management Considerations": ["Phlebotomy to reduce iron levels", "Chelation therapy in severe cases", "Management of associated complications (e.g., cirrhosis, diabetes)"]
+      }
+    },
+    {
+      "condition": "Haemoglobinopathies",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inherited blood disorders (e.g., sickle cell disease, thalassemia)", "Symptoms (anemia, pain crises, splenomegaly)", "Diagnosis with hemoglobin electrophoresis"],
+        "Red Flags": ["Severe anemia", "Pain crises in sickle cell disease", "Signs of organ damage or infection"],
+        "Management Considerations": ["Blood transfusions for severe anemia", "Hydroxyurea for sickle cell disease", "Iron chelation therapy for thalassemia"]
+      }
+    },
+    {
+      "condition": "Haemophilia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inherited bleeding disorder due to deficiency of clotting factors", "Symptoms (easy bruising, joint bleeding, spontaneous bleeding)", "Diagnosis with clotting factor assays"],
+        "Red Flags": ["Severe, spontaneous bleeding", "Joint deformities from recurrent hemarthroses", "Family history of bleeding disorder"],
+        "Management Considerations": ["Factor replacement therapy", "Desmopressin for mild hemophilia A", "Genetic counseling"]
+      }
+    },
+    {
+      "condition": "Haemorrhoids",
+      "important_notes": {
+        "Common UKMLA Topics": ["Swollen veins in the anal canal", "Symptoms (rectal bleeding, pain, itching)", "Diagnosis with clinical examination and anoscopy"],
+        "Red Flags": ["Severe bleeding", "Prolapsed hemorrhoids", "Signs of thrombosis or infection"],
+        "Management Considerations": ["Conservative treatment (fiber, sitz baths)", "Topical treatments (hydrocortisone)", "Surgical options (hemorrhoidectomy) for refractory cases"]
+      }
+    },
+    {
+      "condition": "Head lice",
+      "important_notes": {
+        "Common UKMLA Topics": ["Parasitic infestation of the scalp, common in children", "Symptoms (itching, visible nits or lice)", "Diagnosis with visual inspection of the scalp"],
+        "Red Flags": ["Severe itching or secondary bacterial infection", "Signs of infestation spreading to other areas"],
+        "Management Considerations": ["Topical treatments (permethrin, malathion)", "Combing with fine-toothed comb", "Environmental decontamination (washing clothing and bedding)"]
+      }
+    },
+    {
+      "condition": "Henoch-Schonlein purpura",
+      "important_notes": {
+        "Common UKMLA Topics": ["Vasculitis affecting small vessels, commonly in children", "Symptoms (purpura, arthritis, abdominal pain, renal involvement)", "Diagnosis with clinical presentation and biopsy of affected tissue"],
+        "Red Flags": ["Severe abdominal pain", "Renal failure", "Progressive purpura or joint involvement"],
+        "Management Considerations": ["Supportive care (hydration, pain control)", "Corticosteroids for severe cases", "Monitoring for renal complications"]
+      }
+    },
+    {
+      "condition": "Hepatitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the liver, commonly caused by viruses (hepatitis A, B, C)", "Symptoms (jaundice, fatigue, abdominal pain)", "Diagnosis with liver function tests, serology, and viral PCR"],
+        "Red Flags": ["Severe jaundice", "Acute liver failure", "Chronic hepatitis leading to cirrhosis or hepatocellular carcinoma"],
+        "Management Considerations": ["Antiviral therapy (for hepatitis B and C)", "Liver transplantation for liver failure", "Screening for complications (e.g., liver cancer)"]
+      }
+    },
+    {
+      "condition": "Hernias",
+      "important_notes": {
+        "Common UKMLA Topics": ["Protrusion of abdominal contents through a defect in the abdominal wall", "Types: inguinal, umbilical, femoral, incisional", "Diagnosis with clinical examination and imaging if needed"],
+        "Red Flags": ["Painful or strangulated hernia", "Bowel obstruction", "Signs of ischemia (e.g., redness, tenderness)"],
+        "Management Considerations": ["Elective surgical repair", "Urgent surgery for incarcerated or strangulated hernias", "Lifestyle modifications to avoid strain"]
+      }
+    },
+    {
+      "condition": "Herpes simplex virus",
+      "important_notes": {
+        "Common UKMLA Topics": ["Viral infection causing oral and genital lesions", "Diagnosis with PCR, culture, or direct fluorescent antibody tests", "Types: HSV-1 (oral), HSV-2 (genital)"],
+        "Red Flags": ["Severe or recurrent outbreaks", "Complications (e.g., encephalitis, neonatal herpes)", "Secondary bacterial infections"],
+        "Management Considerations": ["Antiviral therapy (acyclovir, valacyclovir)", "Pain management", "Prevention with safe sexual practices"]
+      }
+    },
+    {
+      "condition": "Hiatus hernia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Protrusion of stomach through the diaphragm", "Symptoms (heartburn, regurgitation, chest pain)", "Diagnosis with barium swallow or endoscopy"],
+        "Red Flags": ["Severe chest pain or difficulty swallowing", "Signs of complications (e.g., strangulation, esophagitis)"],
+        "Management Considerations": ["Lifestyle modifications (smaller meals, head elevation)", "Proton pump inhibitors (PPIs)", "Surgical repair (fundoplication) for refractory cases"]
+      }
+    },
+    {
+      "condition": "Hospital-acquired infections",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infections acquired during hospital stay", "Common pathogens (e.g., MRSA, Clostridium difficile)", "Risk factors (invasive procedures, immunosuppression)"],
+        "Red Flags": ["Fever, sepsis", "Signs of infection at surgical sites or central lines", "Respiratory distress or pneumonia"],
+        "Management Considerations": ["Appropriate antibiotic therapy", "Infection control measures (hand hygiene, isolation)", "Prevention (vaccination, proper sterile technique)"]
+      }
+    },
+    {
+      "condition": "Human immunodeficiency virus",
+      "important_notes": {
+        "Common UKMLA Topics": ["Retrovirus that attacks the immune system, causing AIDS", "Transmission via blood, sexual contact, or vertical transmission", "Diagnosis with HIV antibody tests and viral load monitoring"],
+        "Red Flags": ["Opportunistic infections", "Neurological symptoms (e.g., confusion, seizures)", "Acute retroviral syndrome (fever, rash, lymphadenopathy)"],
+        "Management Considerations": ["Antiretroviral therapy (ART)", "Prevention of opportunistic infections (e.g., Pneumocystis pneumonia)", "Monitoring viral load and CD4 count"]
+      }
+    },
+    {
+      "condition": "Human papilloma virus infection",
+      "important_notes": {
+        "Common UKMLA Topics": ["Common sexually transmitted infection, causes warts and cervical dysplasia", "Vaccination (Gardasil, Cervarix) for prevention", "Diagnosis via Pap smear, HPV DNA testing"],
+        "Red Flags": ["Persistent high-risk strains leading to cervical cancer", "Genital warts or dysplasia", "Signs of HPV-related cancers (e.g., throat, anal, penile cancer)"],
+        "Management Considerations": ["Vaccination for prevention", "Cryotherapy or excision for genital warts", "Cervical screening for early detection of cervical cancer"]
+      }
+    },
+    {
+      "condition": "Hypercalcaemia of malignancy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Elevated calcium levels due to cancer, often with bone metastases", "Symptoms (fatigue, constipation, confusion, polyuria)", "Diagnosis with serum calcium, phosphate, PTH, and imaging"],
+        "Red Flags": ["Severe hypercalcemia (levels >3.0 mmol/L)", "Neurological symptoms (e.g., confusion, coma)", "Signs of dehydration, renal failure"],
+        "Management Considerations": ["IV hydration with saline", "Bisphosphonates or denosumab for bone metastases", "Corticosteroids for hematologic malignancies"]
+      }
+    },
+    {
+      "condition": "Hyperlipidemia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Elevated levels of lipids (cholesterol, triglycerides) in the blood", "Risk factor for cardiovascular disease", "Diagnosis with lipid profile (cholesterol, LDL, HDL, triglycerides)"],
+        "Red Flags": ["Signs of cardiovascular disease (e.g., chest pain, shortness of breath)", "Family history of early cardiovascular events"],
+        "Management Considerations": ["Lifestyle modifications (diet, exercise)", "Statins for LDL reduction", "Fibrates or omega-3 fatty acids for triglyceride reduction"]
+      }
+    },
+    {
+      "condition": "Hyperosmolar hyperglycaemic state",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe hyperglycemia with high osmolarity, typically in type 2 diabetes", "Symptoms (polyuria, polydipsia, confusion, dehydration)", "Diagnosis with blood glucose and osmolality tests"],
+        "Red Flags": ["Severe dehydration", "Altered mental status", "Signs of acute kidney injury or shock"],
+        "Management Considerations": ["IV fluids (normal saline or half-normal saline)", "Insulin therapy", "Electrolyte replacement (potassium)"]
+      }
+    },
+    {
+      "condition": "Hyperparathyroidism",
+      "important_notes": {
+        "Common UKMLA Topics": ["Overactivity of the parathyroid glands, leading to excess PTH", "Symptoms (hypercalcemia, bone pain, kidney stones, fatigue)", "Diagnosis with serum calcium and parathyroid hormone levels"],
+        "Red Flags": ["Severe hypercalcemia", "Bone fractures or kidney stones", "Nephrocalcinosis"],
+        "Management Considerations": ["Surgical removal of parathyroid adenoma", "Bisphosphonates for bone health", "Calcimimetics for managing primary hyperparathyroidism"]
+      }
+    },
+    {
+      "condition": "Hyperthermia and hypothermia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Extreme temperatures affecting body temperature regulation", "Hyperthermia (heatstroke, fever) and hypothermia (exposure to cold)", "Diagnosis based on core temperature measurements"],
+        "Red Flags": ["Heatstroke (core temperature >40°C) or severe hypothermia (<28°C)", "Multisystem organ dysfunction", "Cardiac arrhythmias"],
+        "Management Considerations": ["Cooling measures (ice packs, cool baths) for hyperthermia", "Rewarming techniques (heated blankets, warm fluids) for hypothermia", "Supportive care for organ dysfunction"]
+      }
+    },
+    {
+      "condition": "Hypoglycaemia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Low blood glucose levels, common in diabetes treatment", "Symptoms (shaking, sweating, confusion, dizziness)", "Diagnosis with blood glucose measurement"],
+        "Red Flags": ["Severe hypoglycemia (seizures, loss of consciousness)", "Failure to respond to oral glucose or glucagon"],
+        "Management Considerations": ["Oral glucose or glucagon for mild cases", "IV dextrose for severe cases", "Adjusting insulin regimen or oral hypoglycemic agents"]
+      }
+    },
+    {
+      "condition": "Hypoparathyroidism",
+      "important_notes": {
+        "Common UKMLA Topics": ["Underactivity of the parathyroid glands, leading to hypocalcemia", "Symptoms (tetany, muscle cramps, seizures)", "Diagnosis with low calcium and PTH levels"],
+        "Red Flags": ["Severe hypocalcemia", "Signs of tetany or seizures", "Prolonged QT interval on ECG"],
+        "Management Considerations": ["Calcium and vitamin D supplementation", "PTH replacement therapy in severe cases", "Monitoring for hypercalcemia during treatment"]
+      }
+    },
+    {
+      "condition": "Hyposplenism/splenectomy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Absence or dysfunction of the spleen", "Causes include splenectomy, sickle cell disease, or asplenia syndrome", "Risk of infections (e.g., pneumococcal, meningococcal, Haemophilus influenzae)"],
+        "Red Flags": ["Fever or sepsis in asplenic individuals", "History of splenectomy or splenic dysfunction"],
+        "Management Considerations": ["Vaccination against encapsulated organisms", "Prophylactic antibiotics for high-risk patients", "Emergency antibiotics for fever in asplenic individuals"]
+      }
+    },
+    {
+      "condition": "Hypothyroidism",
+      "important_notes": {
+        "Common UKMLA Topics": ["Underactive thyroid gland leading to low thyroid hormone levels", "Symptoms (fatigue, weight gain, cold intolerance, constipation)", "Diagnosis with serum TSH and free T4 levels"],
+        "Red Flags": ["Severe hypothyroidism (myxedema coma)", "Bradycardia, hypotension, and hypothermia in severe cases"],
+        "Management Considerations": ["Levothyroxine for hormone replacement", "Monitoring TSH levels for appropriate dosing", "Management of complications (e.g., myxedema coma)"]
+      }
+    },
+    {
+      "condition": "Idiopathic arthritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic joint inflammation without clear cause", "Symptoms (joint pain, swelling, stiffness)", "Diagnosis with clinical exam and joint imaging"],
+        "Red Flags": ["Persistent joint pain or deformities", "Systemic involvement (fever, weight loss)"],
+        "Management Considerations": ["NSAIDs for pain and inflammation", "Disease-modifying antirheumatic drugs (DMARDs)", "Biologic therapies in refractory cases"]
+      }
+    },
+    {
+      "condition": "Impetigo",
+      "important_notes": {
+        "Common UKMLA Topics": ["Highly contagious skin infection, often caused by Streptococcus or Staphylococcus", "Symptoms (honey-colored crusts, vesicles)", "Diagnosis based on clinical appearance"],
+        "Red Flags": ["Severe systemic involvement", "Signs of complications like cellulitis"],
+        "Management Considerations": ["Topical antibiotics (e.g., mupirocin)", "Oral antibiotics (e.g., flucloxacillin) for widespread infection", "Hygiene measures to prevent spread"]
+      }
+    },
+    {
+      "condition": "Infectious colitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the colon due to infection", "Common pathogens (e.g., Salmonella, E. coli, C. difficile)", "Symptoms (diarrhea, abdominal pain, fever)"],
+        "Red Flags": ["Severe dehydration", "Hemorrhagic diarrhea or bloody stools", "Signs of toxic megacolon"],
+        "Management Considerations": ["Antibiotics based on the causative organism", "Rehydration and electrolyte management", "Avoidance of anti-motility agents in certain infections"]
+      }
+    },
+    {
+      "condition": "Infectious diarrhoea",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diarrhea caused by gastrointestinal infections", "Common pathogens (e.g., Norovirus, rotavirus, Campylobacter)", "Symptoms (watery diarrhea, vomiting, fever)"],
+        "Red Flags": ["Severe dehydration", "Signs of systemic infection (e.g., sepsis)", "Bloody stools or high fever"],
+        "Management Considerations": ["Rehydration (oral rehydration solutions, IV fluids)", "Antibiotics only in severe or specific bacterial infections", "Supportive care (antiemetics, antidiarrheals)"]
+      }
+    },
+    {
+      "condition": "Infectious mononucleosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Viral infection, commonly caused by Epstein-Barr virus (EBV)", "Symptoms (fever, sore throat, lymphadenopathy, splenomegaly)", "Diagnosis with monospot test or EBV serology"],
+        "Red Flags": ["Severe fatigue", "Splenic rupture or hepatomegaly", "Airway obstruction due to tonsillar enlargement"],
+        "Management Considerations": ["Symptomatic treatment (rest, fluids, analgesics)", "Avoid contact sports to reduce risk of splenic rupture", "Corticosteroids in severe cases"]
+      }
+    },
+    {
+      "condition": "Infective endocarditis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the heart valves, often due to bacteremia", "Risk factors (e.g., prosthetic valves, intravenous drug use)", "Symptoms (fever, heart murmur, septic emboli)"],
+        "Red Flags": ["Septic shock", "Heart failure", "Embolic phenomena (e.g., stroke, organ infarcts)"],
+        "Management Considerations": ["IV antibiotics for 4-6 weeks", "Valve replacement surgery in refractory cases", "Prophylaxis for high-risk patients undergoing certain procedures"]
+      }
+    },
+    {
+      "condition": "Infective keratitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the cornea, often due to bacteria, fungi, or viruses", "Symptoms (eye pain, redness, blurred vision, photophobia)", "Diagnosis with slit-lamp examination and corneal cultures"],
+        "Red Flags": ["Severe eye pain or vision loss", "Hypopyon or corneal ulceration"],
+        "Management Considerations": ["Topical antibiotics or antifungals", "Referral to ophthalmology for severe cases", "Prevention of contact lens-related infections"]
+      }
+    },
+    {
+      "condition": "Inflammatory bowel disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic inflammatory conditions of the GI tract (e.g., Crohn's disease, ulcerative colitis)", "Symptoms (abdominal pain, diarrhea, weight loss, blood in stool)", "Diagnosis with endoscopy, colonoscopy, and imaging studies"],
+        "Red Flags": ["Severe abdominal pain, fever, or weight loss", "Signs of intestinal perforation or obstruction"],
+        "Management Considerations": ["Corticosteroids for acute flare-ups", "Immunosuppressive agents (e.g., azathioprine, methotrexate)", "Biologic therapies for refractory disease"]
+      }
+    },
+    {
+      "condition": "Influenza",
+      "important_notes": {
+        "Common UKMLA Topics": ["Acute viral respiratory infection caused by influenza virus", "Symptoms (fever, chills, sore throat, cough, myalgia)", "Diagnosis with rapid antigen tests or PCR"],
+        "Red Flags": ["Severe respiratory distress", "Secondary bacterial infections (e.g., pneumonia)", "Exacerbation of underlying conditions (e.g., asthma, COPD)"],
+        "Management Considerations": ["Antiviral medications (e.g., oseltamivir) in high-risk patients", "Supportive care (rest, fluids, analgesics)", "Vaccination for prevention"]
+      }
+    },
+    {
+      "condition": "Intestinal ischaemia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Reduced blood flow to the intestines, often due to embolism or thrombosis", "Symptoms (abdominal pain, vomiting, bloody diarrhea)", "Diagnosis with CT angiography or mesenteric doppler ultrasound"],
+        "Red Flags": ["Severe, sudden abdominal pain", "Signs of shock or peritonitis", "History of atrial fibrillation or atherosclerosis"],
+        "Management Considerations": ["Surgical intervention to restore blood flow", "Anticoagulation for thrombotic causes", "Supportive care (fluid resuscitation, antibiotics)"]
+      }
+    },
+    {
+      "condition": "Intestinal obstruction and ileus",
+      "important_notes": {
+        "Common UKMLA Topics": ["Blockage of the intestine, preventing normal bowel movement", "Symptoms (abdominal distension, pain, vomiting, constipation)", "Diagnosis with abdominal X-ray or CT scan"],
+        "Red Flags": ["Severe abdominal pain", "Signs of bowel ischemia or perforation", "Inability to pass gas or stool"],
+        "Management Considerations": ["Conservative management with nasogastric decompression", "Surgical intervention in cases of perforation or strangulation", "Electrolyte management"]
+      }
+    },
+    {
+      "condition": "Intussusception",
+      "important_notes": {
+        "Common UKMLA Topics": ["Telescoping of one part of the intestine into another", "Symptoms (abdominal pain, vomiting, blood in stool)", "Diagnosis with ultrasound or contrast enema"],
+        "Red Flags": ["Severe abdominal pain", "Signs of bowel perforation or necrosis", "Failure to respond to conservative management"],
+        "Management Considerations": ["Non-surgical reduction (e.g., air or contrast enema)", "Surgical intervention in cases of bowel perforation or failure of non-surgical reduction"]
+      }
+    },
+    {
+      "condition": "Iritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the iris, often associated with systemic conditions (e.g., autoimmune diseases)", "Symptoms (eye pain, redness, photophobia, blurred vision)", "Diagnosis with slit-lamp examination"],
+        "Red Flags": ["Severe eye pain", "Vision loss", "Systemic symptoms suggestive of an underlying autoimmune disease"],
+        "Management Considerations": ["Topical corticosteroids", "Cycloplegic agents to relieve pain", "Referral to ophthalmology for severe cases"]
+      }
+    },
+    {
+      "condition": "Irritable bowel syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Functional gastrointestinal disorder", "Symptoms (abdominal pain, bloating, diarrhea, constipation)", "Diagnosis based on clinical criteria (Rome IV)"],
+        "Red Flags": ["Weight loss", "Blood in stool", "Severe or sudden-onset symptoms"],
+        "Management Considerations": ["Dietary modifications (e.g., low FODMAP diet)", "Laxatives or antidiarrheals for symptom management", "Psychological therapies (e.g., CBT) in refractory cases"]
+      }
+    },
+    {
+      "condition": "Ischaemic heart disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Reduced blood flow to the heart muscle, often due to atherosclerosis", "Symptoms (chest pain, shortness of breath, fatigue)", "Diagnosis with ECG, cardiac biomarkers, and imaging (e.g., coronary angiography)"],
+        "Red Flags": ["Chest pain at rest", "Severe shortness of breath", "Signs of heart failure or arrhythmia"],
+        "Management Considerations": ["Antiplatelet therapy (e.g., aspirin, clopidogrel)", "Statins for cholesterol management", "Revascularization procedures (e.g., PCI, CABG) in severe cases"]
+      }
+    },
+    {
+      "condition": "Kawasaki disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Acute vasculitis affecting children, primarily involving coronary arteries", "Symptoms (fever, rash, conjunctivitis, strawberry tongue)", "Diagnosis based on clinical criteria (e.g., fever, mucocutaneous changes)"],
+        "Red Flags": ["Coronary artery aneurysms", "Signs of heart failure or myocardial infarction"],
+        "Management Considerations": ["Intravenous immunoglobulin (IVIG)", "Aspirin therapy to prevent thrombosis", "Close monitoring for coronary artery abnormalities"]
+      }
+    },
+    {
+      "condition": "Leukaemia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignancy of the hematopoietic tissue, classified as acute or chronic", "Symptoms (fatigue, pallor, frequent infections, bleeding)", "Diagnosis with blood tests, bone marrow biopsy, and cytogenetic analysis"],
+        "Red Flags": ["Severe anemia", "Frequent infections or bleeding", "Enlarged lymph nodes or spleen"],
+        "Management Considerations": ["Chemotherapy and/or radiation therapy", "Stem cell transplant in refractory cases", "Supportive care (e.g., blood transfusions, infection prophylaxis)"]
+      }
+    },
+    {
+      "condition": "Liver failure",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe dysfunction of the liver, with impaired detoxification and synthesis", "Symptoms (jaundice, ascites, confusion, bleeding)", "Diagnosis with liver function tests and imaging (e.g., ultrasound)"],
+        "Red Flags": ["Encephalopathy or coma", "Severe bleeding (e.g., variceal hemorrhage)", "Acute liver failure (e.g., acetaminophen toxicity)"],
+        "Management Considerations": ["Liver transplantation for end-stage liver disease", "Supportive care (e.g., fluids, electrolytes)", "Treat underlying causes (e.g., hepatitis, alcohol-related liver disease)"]
+      }
+    },
+    {
+      "condition": "Lower limb fractures",
+      "important_notes": {
+        "Common UKMLA Topics": ["Fractures of the bones in the lower extremity", "Symptoms (pain, swelling, deformity, inability to bear weight)", "Diagnosis with X-ray or CT scan"],
+        "Red Flags": ["Open fractures", "Neurovascular compromise (e.g., loss of pulse or sensation)", "Signs of compartment syndrome"],
+        "Management Considerations": ["Immobilization (e.g., casts, splints)", "Surgical fixation for displaced or unstable fractures", "Rehabilitation for functional recovery"]
+      }
+    },
+    {
+      "condition": "Lower limb soft tissue injury",
+      "important_notes": {
+        "Common UKMLA Topics": ["Injury to muscles, tendons, or ligaments of the lower limb", "Symptoms (pain, swelling, bruising, limited range of motion)", "Diagnosis with clinical examination and imaging (e.g., MRI)"],
+        "Red Flags": ["Severe pain, bruising, or swelling", "Signs of compartment syndrome", "Inability to bear weight or walk"],
+        "Management Considerations": ["RICE (rest, ice, compression, elevation)", "Pain management (NSAIDs, opioids for severe pain)", "Physical therapy for rehabilitation"]
+      }
+    },
+    {
+      "condition": "Lower respiratory tract infection",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infections of the lower respiratory tract, such as pneumonia and bronchitis", "Symptoms (cough, shortness of breath, chest pain, fever)", "Diagnosis with chest X-ray, sputum culture, and blood tests"],
+        "Red Flags": ["Severe respiratory distress", "Hypoxia or cyanosis", "Signs of sepsis or septic shock"],
+        "Management Considerations": ["Antibiotics for bacterial infections (e.g., amoxicillin, ceftriaxone)", "Oxygen therapy for hypoxia", "Supportive care (e.g., fluids, analgesia)"]
+      }
+    },
+    {
+      "condition": "Lung cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignancy of the lung, often associated with smoking", "Symptoms (persistent cough, hemoptysis, weight loss, dyspnea)", "Diagnosis with imaging (e.g., chest X-ray, CT scan) and biopsy"],
+        "Red Flags": ["Unexplained weight loss", "Persistent cough or hemoptysis", "Signs of metastasis (e.g., bone pain, neurological deficits)"],
+        "Management Considerations": ["Surgical resection for localized disease", "Chemotherapy and/or radiation therapy for advanced disease", "Targeted therapies and immunotherapy in specific subtypes"]
+      }
+    },
+    {
+      "condition": "Lyme disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection caused by Borrelia species, transmitted by tick bites", "Symptoms (erythema migrans rash, flu-like symptoms, arthritis)", "Diagnosis with clinical findings and serologic tests"],
+        "Red Flags": ["Severe neurological symptoms (e.g., Bell's palsy, meningitis)", "Cardiac involvement (e.g., heart block)", "Chronic symptoms despite treatment"],
+        "Management Considerations": ["Oral antibiotics (e.g., doxycycline, amoxicillin)", "Intravenous antibiotics for severe cases", "Prevention with tick avoidance and prophylactic antibiotics after tick bites"]
+      }
+    },
+    {
+      "condition": "Lymphoma",
+      "important_notes": {
+        "Common UKMLA Topics": ["Cancer of the lymphatic system, classified as Hodgkin's or non-Hodgkin's", "Symptoms (painless lymphadenopathy, fever, night sweats, weight loss)", "Diagnosis with biopsy, imaging (e.g., CT, PET scan), and blood tests"],
+        "Red Flags": ["Rapidly enlarging lymph nodes", "B symptoms (fever, night sweats, weight loss)", "Signs of organ involvement or bone marrow suppression"],
+        "Management Considerations": ["Chemotherapy and/or radiation therapy", "Targeted therapies for specific lymphoma subtypes", "Stem cell transplantation in refractory cases"]
+      }
+    },
+    {
+      "condition": "Macular degeneration",
+      "important_notes": {
+        "Common UKMLA Topics": ["Degeneration of the macula, leading to central vision loss", "Symptoms (blurred or distorted vision, difficulty reading)", "Diagnosis with fundus examination, OCT"],
+        "Red Flags": ["Sudden vision loss", "Severe central vision impairment", "Macular hemorrhage or retinal detachment"],
+        "Management Considerations": ["Anti-VEGF injections for wet macular degeneration", "Vitamin supplementation for dry macular degeneration", "Referral to ophthalmology for further management"]
+      }
+    },
+    {
+      "condition": "Malabsorption",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inability to absorb nutrients properly, often due to gastrointestinal disorders", "Symptoms (diarrhea, weight loss, fatigue, bloating)", "Diagnosis with stool studies, blood tests (e.g., vitamin levels), and imaging"],
+        "Red Flags": ["Severe weight loss", "Signs of dehydration or electrolyte imbalance", "Fatty stools (steatorrhea)"],
+        "Management Considerations": ["Dietary modifications (e.g., lactose-free, gluten-free diet)", "Supplementation of vitamins and minerals", "Treatment of underlying causes (e.g., celiac disease, Crohn's disease)"]
+      }
+    },
+    {
+      "condition": "Malaria",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection caused by Plasmodium species, transmitted by Anopheles mosquitoes", "Symptoms (fever, chills, sweating, headache, malaise)", "Diagnosis with blood smear or rapid diagnostic tests"],
+        "Red Flags": ["Severe malaria (e.g., cerebral malaria, organ failure)", "Hypotension or shock", "Signs of acute respiratory distress syndrome (ARDS)"],
+        "Management Considerations": ["Antimalarial drugs (e.g., artemisinin-based combination therapy)", "Supportive care (e.g., fluids, oxygen therapy)", "Prophylaxis with antimalarial drugs for travelers to endemic areas"]
+      }
+    },
+    {
+      "condition": "Malignant melanoma",
+      "important_notes": {
+        "Common UKMLA Topics": ["Skin cancer originating from melanocytes", "Symptoms (new or changing mole, irregular borders, color variation)", "Diagnosis with skin biopsy"],
+        "Red Flags": ["Rapidly growing or changing mole", "Bleeding or ulcerated mole", "Mole with asymmetry, irregular borders, and multiple colors"],
+        "Management Considerations": ["Wide local excision", "Sentinel lymph node biopsy for staging", "Adjuvant therapies (e.g., immunotherapy, targeted therapy) for advanced disease"]
+      }
+    },
+    {
+      "condition": "Malnutrition",
+      "important_notes": {
+        "Common UKMLA Topics": ["Deficiency in nutrients, leading to poor health outcomes", "Symptoms (weight loss, fatigue, weakness, impaired wound healing)", "Diagnosis with clinical examination and nutritional assessments"],
+        "Red Flags": ["Severe weight loss or muscle wasting", "Electrolyte imbalance", "Signs of vitamin or mineral deficiencies (e.g., scurvy, pellagra)"],
+        "Management Considerations": ["Nutritional supplementation (e.g., enteral or parenteral feeding)", "Dietary interventions", "Addressing underlying causes (e.g., gastrointestinal disorders, anorexia nervosa)"]
+      }
+    },
+    {
+      "condition": "Measles",
+      "important_notes": {
+        "Common UKMLA Topics": ["Highly contagious viral infection with characteristic rash", "Symptoms (fever, cough, coryza, conjunctivitis, rash starting at head and spreading down)", "Diagnosis with clinical findings and serology"],
+        "Red Flags": ["Severe pneumonia", "Encephalitis or seizures", "Signs of malnutrition or dehydration"],
+        "Management Considerations": ["Supportive care (e.g., fluids, fever control)", "Vitamin A supplementation for severe cases", "Vaccination for prevention"]
+      }
+    },
+    {
+      "condition": "Ménière's disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inner ear disorder causing vertigo, hearing loss, and tinnitus", "Symptoms (recurrent episodes of vertigo, hearing loss, tinnitus, aural fullness)", "Diagnosis with clinical features and audiometry"],
+        "Red Flags": ["Severe vertigo with nausea and vomiting", "Progressive hearing loss", "Sudden, profound sensorineural hearing loss"],
+        "Management Considerations": ["Diuretics for fluid management", "Vestibular rehabilitation therapy", "Surgical intervention in refractory cases (e.g., labyrinthectomy, endolymphatic sac decompression)"]
+      }
+    },
+    {
+      "condition": "Meningitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the meninges, often due to infection", "Symptoms (headache, fever, neck stiffness, photophobia, vomiting)", "Diagnosis with lumbar puncture and CSF analysis"],
+        "Red Flags": ["Severe headache or altered mental status", "Sepsis or signs of systemic infection", "Seizures or focal neurological deficits"],
+        "Management Considerations": ["Empiric antibiotics (e.g., ceftriaxone, vancomycin)", "Corticosteroids for certain types (e.g., bacterial meningitis)", "Supportive care (e.g., fluids, pain management)"]
+      }
+    },
+    {
+      "condition": "Menopause",
+      "important_notes": {
+        "Common UKMLA Topics": ["The natural cessation of menstruation, typically occurring around age 50", "Symptoms (hot flashes, night sweats, mood changes, vaginal dryness)", "Diagnosis based on clinical features and hormone levels (e.g., FSH, estradiol)"],
+        "Red Flags": ["Severe symptoms affecting quality of life", "Unexplained vaginal bleeding", "Osteoporosis or cardiovascular disease risk"],
+        "Management Considerations": ["Hormone replacement therapy (HRT)", "Non-hormonal treatments (e.g., SSRIs, SNRIs for hot flashes)", "Lifestyle modifications (e.g., calcium supplementation, exercise)"]
+      }
+    },
+    {
+      "condition": "Mesenteric adenitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the mesenteric lymph nodes, often due to viral or bacterial infections", "Symptoms (abdominal pain, fever, nausea, vomiting)", "Diagnosis with clinical evaluation and imaging (e.g., abdominal ultrasound)"],
+        "Red Flags": ["Severe abdominal pain or tenderness", "Signs of sepsis or systemic infection", "Unexplained weight loss or persistent symptoms"],
+        "Management Considerations": ["Supportive care (e.g., fluids, pain management)", "Antibiotics for bacterial infections", "Reassurance and monitoring in self-limiting cases"]
+      }
+    },
+    {
+      "condition": "Metastatic disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Cancer that has spread from the primary site to other parts of the body", "Symptoms (pain, weight loss, organ dysfunction, mass formation)", "Diagnosis with imaging (e.g., CT, MRI, PET scan), biopsy"],
+        "Red Flags": ["Unexplained weight loss", "New onset of symptoms in a cancer patient", "Signs of organ dysfunction or failure"],
+        "Management Considerations": ["Palliative care for symptom control", "Chemotherapy, targeted therapy, or immunotherapy depending on the primary cancer", "Surgical resection or radiation for isolated metastases"]
+      }
+    },
+    {
+      "condition": "Migraine",
+      "important_notes": {
+        "Common UKMLA Topics": ["Recurrent, disabling headaches often associated with nausea and photophobia", "Symptoms (pulsating headache, nausea, vomiting, sensitivity to light and sound)", "Diagnosis based on clinical features (e.g., aura, frequency)"],
+        "Red Flags": ["New or different headache patterns", "Severe or sudden-onset headache", "Signs of neurological deficit or increased intracranial pressure"],
+        "Management Considerations": ["Acute treatments (e.g., triptans, NSAIDs)", "Preventive treatments (e.g., beta-blockers, antiepileptic drugs)", "Lifestyle modifications (e.g., sleep hygiene, stress management)"]
+      }
+    },
+    {
+      "condition": "Mitral valve disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diseases of the mitral valve, including mitral regurgitation and mitral stenosis", "Symptoms (dyspnea, fatigue, palpitations, orthopnea)", "Diagnosis with echocardiography"],
+        "Red Flags": ["Severe heart failure", "Pulmonary edema", "New or worsening murmur"],
+        "Management Considerations": ["Medical management (e.g., diuretics, beta-blockers)", "Surgical intervention (e.g., valve repair or replacement)", "Monitoring for complications such as atrial fibrillation or thromboembolism"]
+      }
+    },
+    {
+      "condition": "Motor neurone disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Progressive neurodegenerative disease affecting motor neurons", "Symptoms (muscle weakness, atrophy, dysarthria, dysphagia)", "Diagnosis with clinical examination, EMG, and MRI"],
+        "Red Flags": ["Rapid progression of symptoms", "Bulbar involvement (e.g., difficulty speaking or swallowing)", "Respiratory failure"],
+        "Management Considerations": ["Supportive care (e.g., physiotherapy, speech therapy)", "Riluzole to slow progression", "Palliative care for end-stage disease"]
+      }
+    },
+    {
+      "condition": "Multi-organ dysfunction syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe dysfunction of multiple organ systems, often due to critical illness or trauma", "Symptoms (hypotension, organ failure, respiratory distress)", "Diagnosis based on clinical assessment and organ function tests"],
+        "Red Flags": ["Progressive organ failure", "Sepsis or septic shock", "Severe metabolic derangements"],
+        "Management Considerations": ["Supportive care (e.g., mechanical ventilation, renal replacement therapy)", "Identification and treatment of underlying causes (e.g., infection, trauma)", "Multidisciplinary management in ICU"]
+      }
+    },
+    {
+      "condition": "Multiple myeloma",
+      "important_notes": {
+        "Common UKMLA Topics": ["Cancer of plasma cells, leading to bone lesions, anemia, and kidney dysfunction", "Symptoms (bone pain, fatigue, hypercalcemia, kidney failure)", "Diagnosis with serum protein electrophoresis, bone marrow biopsy, and imaging"],
+        "Red Flags": ["Severe bone pain or fractures", "Signs of spinal cord compression", "Renal failure or hypercalcemia"],
+        "Management Considerations": ["Chemotherapy and/or stem cell transplantation", "Bisphosphonates or denosumab for bone protection", "Supportive care for anemia, hypercalcemia, and renal dysfunction"]
+      }
+    },
+    {
+      "condition": "Multiple sclerosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic autoimmune disease affecting the central nervous system, leading to demyelination", "Symptoms (muscle weakness, vision problems, sensory disturbances, fatigue)", "Diagnosis with MRI, lumbar puncture, and evoked potentials"],
+        "Red Flags": ["Sudden or severe neurological deficits", "Relapsing-remitting pattern of symptoms", "Progressive disability"],
+        "Management Considerations": ["Disease-modifying therapies (e.g., interferons, glatiramer acetate)", "Symptomatic treatment (e.g., steroids for acute relapses)", "Rehabilitation and supportive care for disability management"]
+      }
+    },
+    {
+      "condition": "Mumps",
+      "important_notes": {
+        "Common UKMLA Topics": ["Viral infection causing parotid gland swelling, fever, and headache", "Symptoms (painful swelling of the parotid glands, fever, malaise)", "Diagnosis with clinical features and PCR or serology"],
+        "Red Flags": ["Testicular pain or swelling (complication of mumps)", "Meningitis or encephalitis", "Hearing loss or other neurological deficits"],
+        "Management Considerations": ["Supportive care (e.g., analgesia, fluids)", "Isolation to prevent spread (highly contagious)", "Vaccination for prevention (MMR vaccine)"]
+      }
+    },
+    {
+      "condition": "Muscular dystrophies",
+      "important_notes": {
+        "Common UKMLA Topics": ["Group of inherited disorders causing progressive muscle weakness", "Symptoms (muscle weakness, wasting, delayed motor milestones in children)", "Diagnosis with clinical features, genetic testing, and muscle biopsy"],
+        "Red Flags": ["Rapid progression of muscle weakness", "Respiratory failure or difficulty swallowing", "Cardiac involvement (e.g., arrhythmias, cardiomyopathy)"],
+        "Management Considerations": ["Physical therapy to maintain mobility", "Cardiac monitoring and management", "Gene therapy or corticosteroids in some types (e.g., Duchenne muscular dystrophy)"]
+      }
+    },
+    {
+      "condition": "Myasthenia gravis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Autoimmune neuromuscular disorder causing weakness, particularly in the eyes and face", "Symptoms (ptosis, diplopia, dysphagia, muscle weakness)", "Diagnosis with clinical features, acetylcholine receptor antibodies, and electromyography"],
+        "Red Flags": ["Acute respiratory failure", "Severe dysphagia or dysphonia", "Increased weakness with repetitive activity"],
+        "Management Considerations": ["Acetylcholinesterase inhibitors (e.g., pyridostigmine)", "Immunosuppressive drugs (e.g., steroids, azathioprine)", "Thymectomy in some cases"]
+      }
+    },
+    {
+      "condition": "Myeloproliferative disorders",
+      "important_notes": {
+        "Common UKMLA Topics": ["Group of diseases in which bone marrow produces too many blood cells", "Symptoms (fatigue, splenomegaly, weight loss, night sweats)", "Diagnosis with blood tests (e.g., CBC, JAK2 mutation analysis), bone marrow biopsy"],
+        "Red Flags": ["Signs of thrombosis or bleeding", "Severe splenomegaly or hepatomegaly", "Progressive anemia or leukocytosis"],
+        "Management Considerations": ["Phlebotomy in polycythemia vera", "Hydroxyurea or interferon in certain conditions", "Bone marrow transplant in severe cases"]
+      }
+    },
+    {
+      "condition": "Myocardial infarction",
+      "important_notes": {
+        "Common UKMLA Topics": ["Acute damage to the heart muscle due to ischemia", "Symptoms (chest pain, shortness of breath, diaphoresis, nausea)", "Diagnosis with ECG changes, elevated cardiac biomarkers (e.g., troponin), and clinical features"],
+        "Red Flags": ["Severe chest pain or discomfort", "Radiating pain to the arm, neck, or jaw", "Hypotension, shock, or arrhythmias"],
+        "Management Considerations": ["Immediate aspirin and antiplatelet therapy", "Thrombolysis or PCI (percutaneous coronary intervention)", "Post-infarction care (e.g., beta-blockers, statins, ACE inhibitors)"]
+      }
+    },
+    {
+      "condition": "Myocarditis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the heart muscle, often due to viral infection", "Symptoms (chest pain, shortness of breath, fatigue, arrhythmias)", "Diagnosis with clinical features, ECG, echocardiogram, and cardiac MRI"],
+        "Red Flags": ["Severe chest pain or discomfort", "Signs of heart failure (e.g., fluid retention, orthopnea)", "Sudden arrhythmias or syncope"],
+        "Management Considerations": ["Supportive care (e.g., heart failure management)", "Antiviral therapy if an infection is identified", "Immunosuppressive therapy in autoimmune causes"]
+      }
+    },
+    {
+      "condition": "Necrotising enterocolitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe gastrointestinal disease in neonates, often associated with prematurity", "Symptoms (abdominal distension, feeding intolerance, bloody stools, lethargy)", "Diagnosis with abdominal X-ray and clinical features"],
+        "Red Flags": ["Severe abdominal distension", "Signs of shock or sepsis", "Perforation of the bowel"],
+        "Management Considerations": ["Supportive care (e.g., bowel rest, intravenous fluids)", "Antibiotics for suspected infection", "Surgical intervention in case of bowel perforation or necrosis"]
+      }
+    },
+    {
+      "condition": "Necrotising fasciitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe soft tissue infection causing widespread tissue death", "Symptoms (severe pain, swelling, erythema, fever, crepitus)", "Diagnosis with clinical features, imaging, and surgical exploration"],
+        "Red Flags": ["Rapid progression of symptoms", "Signs of systemic sepsis or shock", "Failure to respond to initial treatment"],
+        "Management Considerations": ["Emergency surgical debridement", "Broad-spectrum IV antibiotics", "Supportive care for sepsis and organ failure"]
+      }
+    },
+    {
+      "condition": "Nephrotic syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Kidney disorder characterized by proteinuria, hypoalbuminemia, and edema", "Symptoms (edema, particularly in the face and legs, foamy urine)", "Diagnosis with urine dipstick for protein, 24-hour urine collection, and serum albumin levels"],
+        "Red Flags": ["Severe edema or ascites", "Hypertension or worsening renal function", "Signs of infection (e.g., cellulitis, peritonitis)"],
+        "Management Considerations": ["Diuretics for edema management", "Angiotensin-converting enzyme (ACE) inhibitors", "Corticosteroids or immunosuppressive therapy for primary nephrotic syndrome"]
+      }
+    },
+    {
+      "condition": "Non-accidental injury",
+      "important_notes": {
+        "Common UKMLA Topics": ["Injury caused by intentional harm, particularly in children", "Symptoms (bruising, fractures, burns, signs of neglect or abuse)", "Diagnosis with clinical evaluation, imaging, and child protection protocols"],
+        "Red Flags": ["Injuries in non-mobile infants", "Inconsistent or delayed explanation of injuries", "Signs of emotional or physical neglect"],
+        "Management Considerations": ["Immediate safeguarding and referral to child protection services", "Multidisciplinary team approach including social services and pediatric specialists", "Documentation and reporting to appropriate authorities"]
+      }
+    },
+    {
+      "condition": "Notifiable diseases",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diseases required by law to be reported to public health authorities", "Examples include tuberculosis, hepatitis, and sexually transmitted infections", "Surveillance and reporting protocols for public health management"],
+        "Red Flags": ["Outbreaks in vulnerable populations", "Unusual clustering of cases in a specific area", "Severe complications or mortality"],
+        "Management Considerations": ["Public health notification and isolation", "Antimicrobial therapy for certain infections", "Vaccination and preventative measures"]
+      }
+    },
+    {
+      "condition": "Obesity",
+      "important_notes": {
+        "Common UKMLA Topics": ["Excessive body fat accumulation with significant health risks", "Symptoms (BMI ≥30, increased waist circumference)", "Diagnosis with BMI calculation and waist-to-hip ratio"],
+        "Red Flags": ["Comorbid conditions (e.g., type 2 diabetes, hypertension, cardiovascular disease)", "Rapid weight gain or loss", "Signs of obesity-related complications like sleep apnoea or fatty liver disease"],
+        "Management Considerations": ["Lifestyle interventions (e.g., diet, exercise)", "Pharmacological treatment (e.g., orlistat, GLP-1 receptor agonists)", "Bariatric surgery in severe cases"]
+      }
+    },
+    {
+      "condition": "Obesity and pregnancy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Obesity during pregnancy can lead to complications for both the mother and baby", "Increased risk of gestational diabetes, preeclampsia, and cesarean delivery", "Management with weight monitoring, glucose tolerance testing, and antenatal care adjustments"],
+        "Red Flags": ["Gestational diabetes", "Hypertension or preeclampsia", "Poor fetal growth or macrosomia"],
+        "Management Considerations": ["Weight management through diet and exercise", "Close monitoring of maternal and fetal health", "Multidisciplinary approach including obstetrics, nutrition, and endocrinology"]
+      }
+    },
+    {
+      "condition": "Obstructive sleep apnoea",
+      "important_notes": {
+        "Common UKMLA Topics": ["Disorder characterized by intermittent obstruction of the upper airway during sleep", "Symptoms (loud snoring, choking, daytime sleepiness)", "Diagnosis with polysomnography or home sleep studies"],
+        "Red Flags": ["Severe daytime somnolence", "Cardiovascular complications (e.g., hypertension, arrhythmias)", "Signs of hypoxia or respiratory distress during sleep"],
+        "Management Considerations": ["Continuous positive airway pressure (CPAP) therapy", "Weight loss, positional therapy", "Surgical options (e.g., uvulopalatopharyngoplasty) in severe cases"]
+      }
+    },
+    {
+      "condition": "Occupational lung disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diseases caused by inhaling harmful substances in the workplace", "Examples include asbestosis, silicosis, and pneumoconiosis", "Diagnosis with occupational history, chest X-ray, and lung function tests"],
+        "Red Flags": ["Progressive shortness of breath", "Chronic cough or sputum production", "Signs of pulmonary fibrosis or respiratory failure"],
+        "Management Considerations": ["Avoidance of further exposure to harmful agents", "Symptomatic treatment (e.g., bronchodilators, oxygen therapy)", "Monitoring and early intervention to prevent further lung damage"]
+      }
+    },
+    {
+      "condition": "Oesophageal cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignant tumor of the oesophagus, often associated with smoking and alcohol consumption", "Symptoms (dysphagia, weight loss, reflux symptoms)", "Diagnosis with endoscopy and biopsy, imaging for staging"],
+        "Red Flags": ["Progressive dysphagia", "Unexplained weight loss", "Hematemesis or melena"],
+        "Management Considerations": ["Surgical resection (e.g., oesophagectomy)", "Chemotherapy and radiotherapy for advanced disease", "Palliative care for symptom management in advanced stages"]
+      }
+    },
+    {
+      "condition": "Optic neuritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the optic nerve, often associated with multiple sclerosis", "Symptoms (pain on eye movement, vision loss, color vision abnormalities)", "Diagnosis with clinical findings and MRI of the brain"],
+        "Red Flags": ["Sudden or severe vision loss", "Pain with eye movement", "Signs of central nervous system involvement (e.g., weakness, sensory changes)"],
+        "Management Considerations": ["Corticosteroids for acute inflammation", "Management of underlying conditions (e.g., multiple sclerosis)", "Vision rehabilitation and supportive care"]
+      }
+    },
+    {
+      "condition": "Osteoarthritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Degenerative joint disease characterized by cartilage breakdown", "Symptoms (joint pain, stiffness, limited range of motion)", "Diagnosis with clinical features, X-ray, and MRI"],
+        "Red Flags": ["Severe joint pain or swelling", "Inability to perform daily activities", "Signs of joint deformity or instability"],
+        "Management Considerations": ["Physical therapy and exercise", "Analgesics (e.g., acetaminophen, NSAIDs)", "Surgical options (e.g., joint replacement) in advanced cases"]
+      }
+    },
+    {
+      "condition": "Osteomalacia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Softening of the bones due to vitamin D deficiency or phosphate imbalance", "Symptoms (bone pain, muscle weakness, difficulty walking)", "Diagnosis with blood tests (e.g., low vitamin D, low calcium, high alkaline phosphatase) and X-ray findings"],
+        "Red Flags": ["Severe bone pain", "Fractures or bone deformities", "Signs of hypocalcemia (e.g., tetany, seizures)"],
+        "Management Considerations": ["Vitamin D supplementation", "Calcium and phosphate replacement", "Management of underlying causes (e.g., kidney disease, malabsorption)"]
+      }
+    },
+    {
+      "condition": "Osteomyelitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Bone infection, often caused by bacteria (e.g., Staphylococcus aureus)", "Symptoms (bone pain, fever, swelling, erythema)", "Diagnosis with blood cultures, bone biopsy, and imaging (e.g., MRI, X-ray)"],
+        "Red Flags": ["Severe localized pain and swelling", "Fever or systemic infection signs", "Failure to improve with initial treatment"],
+        "Management Considerations": ["Intravenous antibiotics for severe infections", "Surgical debridement of infected bone", "Chronic osteomyelitis may require long-term antibiotic therapy and wound care"]
+      }
+    },
+    {
+      "condition": "Osteoporosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Condition characterized by reduced bone density and increased fracture risk", "Symptoms (fragility fractures, back pain, loss of height)", "Diagnosis with dual-energy X-ray absorptiometry (DXA) scan"],
+        "Red Flags": ["Fractures with minimal trauma", "Chronic back pain or kyphosis", "Family history of osteoporosis or fractures"],
+        "Management Considerations": ["Bisphosphonates (e.g., alendronate)", "Calcium and vitamin D supplementation", "Weight-bearing exercise and fall prevention strategies"]
+      }
+    },
+    {
+      "condition": "Otitis externa",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the outer ear canal, often due to bacterial or fungal infection", "Symptoms (ear pain, itching, discharge, erythema)", "Diagnosis with clinical examination and otoscopy"],
+        "Red Flags": ["Severe pain or swelling", "Fever or systemic symptoms", "Perforated eardrum or hearing loss"],
+        "Management Considerations": ["Topical antibiotics or antifungals", "Pain relief (e.g., paracetamol, NSAIDs)", "Avoidance of water exposure and ear canal cleaning"]
+      }
+    },
+    {
+      "condition": "Otitis media",
+      "important_notes": {
+        "Common UKMLA Topics": ["Middle ear infection, commonly in children", "Symptoms (ear pain, fever, hearing loss, irritability in children)", "Diagnosis with otoscopy showing a red or bulging tympanic membrane"],
+        "Red Flags": ["Severe pain or drainage of pus from the ear", "Persistent fever or signs of sepsis", "Hearing loss or balance issues"],
+        "Management Considerations": ["Antibiotics (e.g., amoxicillin) if bacterial infection suspected", "Pain management (e.g., paracetamol, ibuprofen)", "Surgical drainage (e.g., myringotomy) for recurrent or severe cases"]
+      }
+    },
+    {
+      "condition": "Ovarian cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignancy of the ovaries, often presenting with nonspecific symptoms", "Symptoms (abdominal bloating, pelvic pain, changes in bowel habits)", "Diagnosis with pelvic ultrasound, CA-125 blood test, and biopsy"],
+        "Red Flags": ["Persistent bloating or abdominal discomfort", "Unexplained weight loss", "Pelvic mass or family history of ovarian or breast cancer"],
+        "Management Considerations": ["Surgical resection (e.g., oophorectomy, hysterectomy)", "Chemotherapy for advanced stages", "Genetic counseling and screening for BRCA mutations"]
+      }
+    },
+    {
+      "condition": "Pancreatic cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignant tumor of the pancreas, often diagnosed at an advanced stage", "Symptoms (abdominal pain, jaundice, weight loss, back pain)", "Diagnosis with imaging (e.g., CT, MRI), tumor markers (e.g., CA 19-9), and biopsy"],
+        "Red Flags": ["Unexplained weight loss", "Jaundice or abdominal mass", "Family history of pancreatic cancer or genetic syndromes (e.g., BRCA mutations)"],
+        "Management Considerations": ["Surgical resection (e.g., Whipple procedure) if early and resectable", "Chemotherapy (e.g., FOLFIRINOX) for advanced disease", "Palliative care for symptom management"]
+      }
+    },
+    {
+      "condition": "Pancytopenia",
+      "important_notes": {
+        "Common UKMLA Topics": ["A reduction in all blood cell types (red cells, white cells, and platelets)", "Causes include bone marrow failure, leukemia, infections, or medications", "Diagnosis with complete blood count (CBC) and bone marrow biopsy"],
+        "Red Flags": ["Fatigue, pallor, bleeding, or bruising", "Severe infections", "History of chemotherapy or radiation exposure"],
+        "Management Considerations": ["Treat underlying cause (e.g., chemotherapy for leukemia, vitamin B12 for deficiency)", "Blood transfusions and supportive care for severe cases", "Bone marrow biopsy for diagnosis and management planning"]
+      }
+    },
+    {
+      "condition": "Parkinson's disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic neurodegenerative disorder affecting motor control", "Symptoms (tremor, rigidity, bradykinesia, postural instability)", "Diagnosis based on clinical features and response to dopaminergic treatment"],
+        "Red Flags": ["Progressive motor symptoms", "Freezing of gait or falls", "Autonomic dysfunction (e.g., orthostatic hypotension)"],
+        "Management Considerations": ["Levodopa and dopamine agonists for symptom control", "Physical therapy and occupational therapy for mobility and function", "Deep brain stimulation for refractory symptoms"]
+      }
+    },
+    {
+      "condition": "Pathological fracture",
+      "important_notes": {
+        "Common UKMLA Topics": ["Fractures that occur due to underlying disease or abnormal bone structure", "Causes include osteoporosis, cancer, or bone infections", "Diagnosis with imaging (e.g., X-ray, MRI) and assessment of bone density"],
+        "Red Flags": ["Fracture with minimal trauma", "Unexplained bone pain", "History of cancer or metabolic bone disease"],
+        "Management Considerations": ["Treatment of underlying condition (e.g., bisphosphonates for osteoporosis)", "Surgical stabilization of the fracture", "Pain management and rehabilitation"]
+      }
+    },
+    {
+      "condition": "Patient on anti-coagulant therapy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Patients receiving medications that reduce blood clotting, e.g., warfarin, rivaroxaban", "Risks include bleeding complications and interaction with other medications", "Management includes regular monitoring of INR (for warfarin) and renal function for newer agents"],
+        "Red Flags": ["Signs of bleeding (e.g., easy bruising, hematuria, gastrointestinal bleeding)", "Recent surgery or trauma", "Increased INR or abnormal bleeding profile"],
+        "Management Considerations": ["Adjustment of anti-coagulant dose", "Use of antidotes (e.g., vitamin K for warfarin, idarucizumab for dabigatran)", "Alternative anticoagulation strategies if needed"]
+      }
+    },
+    {
+      "condition": "Patient on anti-platelet therapy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Patients receiving medications that inhibit platelet aggregation, e.g., aspirin, clopidogrel", "Used to prevent cardiovascular events (e.g., stroke, myocardial infarction)", "Risk of bleeding and potential interactions with other drugs"],
+        "Red Flags": ["Signs of bleeding (e.g., bruising, gastrointestinal bleeding)", "Recent surgery or trauma", "Non-compliance with medication or abrupt discontinuation"],
+        "Management Considerations": ["Monitoring for signs of bleeding", "Discontinuation or adjustment of therapy if bleeding risk is high", "Use of alternative antiplatelet therapy if necessary"]
+      }
+    },
+    {
+      "condition": "Pelvic inflammatory disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the female reproductive organs, often due to sexually transmitted infections", "Symptoms (pelvic pain, fever, abnormal discharge)", "Diagnosis with clinical features, pelvic examination, and microbiological testing"],
+        "Red Flags": ["Severe pelvic pain or fever", "History of unprotected sexual activity or multiple sexual partners", "Signs of peritonitis or septic shock"],
+        "Management Considerations": ["Antibiotic therapy targeting common pathogens (e.g., gonorrhoea, chlamydia)", "Hospitalization for severe cases or if there is concern for tubo-ovarian abscess", "Prevention with safe sexual practices and regular screening for STIs"]
+      }
+    },
+    {
+      "condition": "Peptic ulcer disease and gastritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation or ulceration of the stomach or duodenal lining, often due to H. pylori infection or NSAID use", "Symptoms (epigastric pain, nausea, bloating, indigestion)", "Diagnosis with endoscopy, urease test for H. pylori, and biopsy"],
+        "Red Flags": ["Severe or persistent abdominal pain", "Signs of gastrointestinal bleeding (e.g., hematemesis, melena)", "History of NSAID use or alcohol consumption"],
+        "Management Considerations": ["Proton pump inhibitors (e.g., omeprazole) for acid suppression", "H. pylori eradication with antibiotics", "Avoidance of NSAIDs and alcohol"]
+      }
+    },
+    {
+      "condition": "Perianal abscesses and fistulae",
+      "important_notes": {
+        "Common UKMLA Topics": ["Abscess formation near the anus, often due to infection of the anal glands", "Symptoms (pain, swelling, drainage of pus)", "Diagnosis with clinical examination and possibly fistulogram or MRI"],
+        "Red Flags": ["Severe pain or fever", "Recurrent abscess formation", "Signs of sepsis or systemic infection"],
+        "Management Considerations": ["Incision and drainage for abscesses", "Surgical management of fistulae (e.g., seton placement, fistulotomy)", "Antibiotics for infection control if necessary"]
+      }
+    },
+    {
+      "condition": "Pericardial disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Disease affecting the pericardium, including pericarditis, pericardial effusion, and constrictive pericarditis", "Symptoms (chest pain, dyspnea, pericardial friction rub)", "Diagnosis with echocardiography and ECG"],
+        "Red Flags": ["Severe chest pain or difficulty breathing", "Signs of pericardial tamponade (e.g., hypotension, jugular venous distention)", "History of recent viral illness or autoimmune disease"],
+        "Management Considerations": ["Anti-inflammatory medications (e.g., NSAIDs, colchicine) for pericarditis", "Pericardiocentesis for pericardial effusion", "Surgical intervention for constrictive pericarditis in refractory cases"]
+      }
+    },
+    {
+      "condition": "Periorbital and orbital cellulitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the tissues surrounding the eye, with periorbital affecting the skin and orbital affecting deeper structures", "Symptoms (eye redness, swelling, pain, fever, vision changes)", "Diagnosis with clinical examination and possibly CT or MRI for orbital involvement"],
+        "Red Flags": ["Rapid onset of swelling or redness", "Vision changes or proptosis", "Signs of systemic infection (e.g., fever, tachycardia)"],
+        "Management Considerations": ["Intravenous antibiotics (e.g., ceftriaxone, vancomycin) for orbital cellulitis", "Hospitalization for severe cases", "Management of underlying sinusitis or trauma if present"]
+      }
+    },
+    {
+      "condition": "Peripheral nerve injuries/palsies",
+      "important_notes": {
+        "Common UKMLA Topics": ["Damage to peripheral nerves, which can result from trauma, compression, or systemic conditions", "Symptoms (numbness, weakness, loss of reflexes, pain)", "Diagnosis with clinical examination and nerve conduction studies"],
+        "Red Flags": ["Severe or sudden loss of sensation or motor function", "Signs of systemic involvement (e.g., neuropathy due to diabetes, Guillain-Barré syndrome)", "Unresolved pain or weakness despite conservative treatment"],
+        "Management Considerations": ["Physical therapy for rehabilitation", "Pain management (e.g., gabapentin for neuropathic pain)", "Surgical intervention for nerve decompression or repair in severe cases"]
+      }
+    },
+    {
+      "condition": "Peripheral vascular disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Reduced blood flow to the limbs due to atherosclerosis or other vascular conditions", "Symptoms (claudication, rest pain, non-healing ulcers)", "Diagnosis with ankle-brachial index, Doppler ultrasound, and angiography"],
+        "Red Flags": ["Severe leg pain or ischemia", "Signs of gangrene or necrosis", "History of smoking, diabetes, or hypertension"],
+        "Management Considerations": ["Lifestyle modification (e.g., smoking cessation, exercise)", "Pharmacological treatment (e.g., antiplatelet agents, statins)", "Revascularization procedures (e.g., angioplasty, bypass surgery) in severe cases"]
+      }
+    },
+    {
+      "condition": "Peritonitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the peritoneum, often due to infection or abdominal trauma", "Symptoms (abdominal pain, fever, nausea, vomiting, guarding)", "Diagnosis with clinical examination and imaging (e.g., X-ray, CT)"],
+        "Red Flags": ["Severe abdominal pain or rigidity", "Signs of shock or sepsis", "History of abdominal surgery or trauma"],
+        "Management Considerations": ["Antibiotic therapy for infection", "Surgical intervention if there is a perforated viscus or abscess", "Fluid resuscitation and supportive care for sepsis management"]
+      }
+    },
+    {
+      "condition": "Personality disorder",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic pattern of behavior that deviates from cultural norms, affecting cognition, emotional regulation, and interpersonal functioning", "Examples include borderline personality disorder, narcissistic personality disorder, antisocial personality disorder", "Diagnosis based on clinical evaluation using DSM-5 criteria"],
+        "Red Flags": ["Sudden and severe personality changes", "History of self-harm or risky behaviors", "Chronic interpersonal issues or difficulties at work or in relationships"],
+        "Management Considerations": ["Psychotherapy (e.g., dialectical behavior therapy for borderline personality disorder)", "Pharmacotherapy (e.g., mood stabilizers, antidepressants) for symptom management", "Long-term management through therapy and lifestyle changes"]
+      }
+    },
+    {
+      "condition": "Pituitary tumours",
+      "important_notes": {
+        "Common UKMLA Topics": ["Benign or malignant growths of the pituitary gland that can affect hormonal function", "Symptoms (headaches, vision changes, hormonal imbalances such as Cushing's syndrome, acromegaly, or hypothyroidism)", "Diagnosis with MRI or CT scan and hormone tests"],
+        "Red Flags": ["Visual disturbances (e.g., bitemporal hemianopia)", "Endocrine dysfunction (e.g., galactorrhea, weight gain, hyperglycemia)", "Sudden severe headache or signs of pituitary apoplexy"],
+        "Management Considerations": ["Surgical resection if accessible", "Radiotherapy for residual or recurrent tumors", "Hormonal replacement therapy for endocrine deficiencies"]
+      }
+    },
+    {
+      "condition": "Placenta praevia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Condition where the placenta covers or is near the cervix, leading to complications during delivery", "Symptoms (painless vaginal bleeding in the second or third trimester)", "Diagnosis with ultrasound"],
+        "Red Flags": ["Painless vaginal bleeding in late pregnancy", "Premature rupture of membranes", "Severe bleeding or signs of shock"],
+        "Management Considerations": ["Cesarean section delivery", "Monitoring for bleeding and signs of fetal distress", "Blood transfusion if significant hemorrhage occurs"]
+      }
+    },
+    {
+      "condition": "Placental abruption",
+      "important_notes": {
+        "Common UKMLA Topics": ["Premature separation of the placenta from the uterine wall, leading to hemorrhage", "Symptoms (painful vaginal bleeding, abdominal pain, uterine tenderness)", "Diagnosis through clinical examination and ultrasound"],
+        "Red Flags": ["Severe abdominal pain and bleeding", "Signs of fetal distress or fetal demise", "Hypovolemic shock in the mother"],
+        "Management Considerations": ["Emergency cesarean section if fetal distress is present", "Management of hemorrhage and shock", "Observation and delivery for mild cases if the fetus is stable"]
+      }
+    },
+    {
+      "condition": "Pneumonia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Lung infection that causes inflammation and consolidation of the alveolar spaces", "Symptoms (cough, fever, pleuritic chest pain, shortness of breath)", "Diagnosis with clinical features and chest X-ray"],
+        "Red Flags": ["Severe dyspnea, confusion, or hypoxia", "History of immunocompromised state or chronic lung disease", "Signs of sepsis or septic shock"],
+        "Management Considerations": ["Antibiotic therapy based on suspected organism (e.g., amoxicillin for typical, levofloxacin for atypical)", "Oxygen therapy for hypoxia", "Supportive care and hydration"]
+      }
+    },
+    {
+      "condition": "Pneumothorax",
+      "important_notes": {
+        "Common UKMLA Topics": ["Presence of air in the pleural space leading to lung collapse", "Symptoms (sudden chest pain, shortness of breath, tachypnea)", "Diagnosis with chest X-ray or CT scan"],
+        "Red Flags": ["Sudden onset of sharp chest pain and dyspnea", "Signs of tension pneumothorax (e.g., tracheal deviation, hypotension)", "History of trauma or lung disease"],
+        "Management Considerations": ["Chest tube insertion for large or symptomatic pneumothorax", "Observation for small, asymptomatic pneumothorax", "Surgical intervention for recurrent cases or persistent air leak"]
+      }
+    },
+    {
+      "condition": "Polycythaemia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Excessive red blood cell production, which can lead to increased blood viscosity", "Symptoms (headache, dizziness, pruritus, splenomegaly)", "Diagnosis with complete blood count (CBC) and erythropoietin levels"],
+        "Red Flags": ["Headache, visual disturbances, or stroke-like symptoms", "Splenomegaly or hepatomegaly", "History of smoking, dehydration, or lung disease"],
+        "Management Considerations": ["Phlebotomy to reduce red blood cell mass", "Aspirin for thrombosis prevention", "Hydroxyurea or interferon for myeloproliferative disorders"]
+      }
+    },
+    {
+      "condition": "Polymyalgia rheumatica",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic inflammatory disorder affecting the muscles, leading to pain and stiffness in the shoulders and hips", "Symptoms (muscle pain, stiffness, fatigue, low-grade fever)", "Diagnosis based on clinical features and elevated inflammatory markers (e.g., ESR, CRP)"],
+        "Red Flags": ["Severe morning stiffness and pain in the shoulders, hips, and neck", "Rapid onset of symptoms", "Associated with giant cell arteritis"],
+        "Management Considerations": ["Corticosteroids (e.g., prednisone) for inflammation", "Monitoring for side effects of steroids (e.g., osteoporosis, diabetes)", "Gradual tapering of steroids after symptom improvement"]
+      }
+    },
+    {
+      "condition": "Postpartum haemorrhage",
+      "important_notes": {
+        "Common UKMLA Topics": ["Excessive bleeding after childbirth, typically defined as blood loss greater than 500 mL", "Symptoms (heavy vaginal bleeding, hypotension, tachycardia)", "Diagnosis based on clinical presentation and blood loss measurements"],
+        "Red Flags": ["Hypotension, tachycardia, and signs of shock", "Failure to control bleeding after delivery", "Retained placental tissue or uterine atony"],
+        "Management Considerations": ["Uterine massage and oxytocin administration", "Blood transfusion and surgical intervention (e.g., balloon tamponade or hysterectomy) if necessary", "Prevention with active management of the third stage of labor"]
+      }
+    },
+    {
+      "condition": "Pre-eclampsia, gestational hypertension",
+      "important_notes": {
+        "Common UKMLA Topics": ["Hypertension and proteinuria occurring after 20 weeks of pregnancy", "Symptoms (high blood pressure, swelling, protein in urine, headaches)", "Diagnosis with blood pressure measurement and urine analysis"],
+        "Red Flags": ["Severe headache, visual disturbances, or upper abdominal pain", "Sudden weight gain or severe edema", "Signs of organ involvement (e.g., liver or kidney dysfunction)"],
+        "Management Considerations": ["Blood pressure control with antihypertensive medications", "Delivery of the baby if severe or at term", "Monitoring for pre-eclampsia-related complications (e.g., eclamptic seizures, HELLP syndrome)"]
+      }
+    },
+    {
+      "condition": "Pressure sores",
+      "important_notes": {
+        "Common UKMLA Topics": ["Localized damage to the skin and underlying tissue, usually over bony prominences due to prolonged pressure", "Symptoms (redness, breakdown of skin, pain)", "Diagnosis based on clinical inspection"],
+        "Red Flags": ["Non-healing ulcers, signs of infection (e.g., redness, pus, fever)", "Pain and discomfort with movement", "Signs of deeper tissue involvement or necrosis"],
+        "Management Considerations": ["Frequent repositioning and use of pressure-relieving devices", "Wound care and dressing changes", "Antibiotics for infected wounds, debridement for necrotic tissue"]
+      }
+    },
+    {
+      "condition": "Prostate cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignant tumor of the prostate gland, often associated with aging", "Symptoms (difficulty urinating, blood in urine, bone pain, weight loss)", "Diagnosis with PSA levels, digital rectal examination (DRE), and biopsy"],
+        "Red Flags": ["Difficulty urinating, blood in urine or semen", "Unexplained weight loss or back pain", "Family history of prostate cancer or other cancers"],
+        "Management Considerations": ["Active surveillance for low-risk disease", "Surgical resection (prostatectomy) or radiation therapy for localized disease", "Hormonal therapy or chemotherapy for metastatic disease"]
+      }
+    },
+    {
+      "condition": "Psoriasis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic autoimmune skin condition causing red, scaly patches", "Symptoms (itchy, inflamed skin, often on the elbows, knees, and scalp)", "Diagnosis based on clinical features and sometimes biopsy"],
+        "Red Flags": ["Rapid onset or worsening of symptoms", "Joint pain or swelling (psoriatic arthritis)", "Associated systemic symptoms (e.g., fever, weight loss)"],
+        "Management Considerations": ["Topical corticosteroids for flare-ups", "Systemic therapy (e.g., methotrexate, biologics) for moderate to severe cases", "Phototherapy for widespread disease"]
+      }
+    },
+    {
+      "condition": "Pulmonary embolism",
+      "important_notes": {
+        "Common UKMLA Topics": ["Blockage of the pulmonary artery by a blood clot, often arising from deep vein thrombosis", "Symptoms (sudden chest pain, shortness of breath, hemoptysis)", "Diagnosis with CT pulmonary angiography or V/Q scan"],
+        "Red Flags": ["Sudden onset of chest pain and dyspnea", "Signs of deep vein thrombosis (e.g., calf swelling, tenderness)", "Hypoxia or shock"],
+        "Management Considerations": ["Anticoagulation (e.g., heparin, warfarin) to prevent clot propagation", "Thrombolysis or surgical embolectomy for massive or life-threatening embolism", "Monitoring and supportive care for complications like right heart failure"]
+      }
+    },
+    {
+      "condition": "Pulmonary hypertension",
+      "important_notes": {
+        "Common UKMLA Topics": ["Elevated pulmonary arterial pressure leading to right heart strain", "Symptoms (dyspnea, fatigue, chest pain, peripheral edema)", "Diagnosis with echocardiography and right heart catheterization"],
+        "Red Flags": ["Progressive shortness of breath, fatigue, or syncope", "Signs of right heart failure (e.g., swelling, jugular venous distention)", "History of connective tissue diseases or chronic lung disease"],
+        "Management Considerations": ["Pulmonary vasodilators (e.g., sildenafil, bosentan)", "Oxygen therapy for hypoxia", "Consideration of lung transplantation in severe cases"]
+      }
+    },
+    {
+      "condition": "Pyloric stenosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Narrowing of the pyloric sphincter, typically affecting infants", "Symptoms (projectile vomiting, dehydration, weight loss)", "Diagnosis with abdominal ultrasound"],
+        "Red Flags": ["Severe dehydration or electrolyte imbalances", "Failure to thrive or persistent vomiting", "Palpable 'olive' mass in the abdomen"],
+        "Management Considerations": ["Surgical intervention (pyloromyotomy) to relieve the obstruction", "Fluid and electrolyte resuscitation prior to surgery", "Postoperative care and monitoring for recurrence"]
+      }
+    },
+    {
+      "condition": "Radiculopathies",
+      "important_notes": {
+        "Common UKMLA Topics": ["Disorders caused by compression or irritation of spinal nerve roots", "Symptoms (pain, weakness, numbness, or tingling in the areas supplied by the affected nerve)", "Diagnosis with MRI, EMG, or clinical examination"],
+        "Red Flags": ["Severe pain radiating down the arm or leg", "Neurological deficits such as muscle weakness or loss of sensation", "History of trauma or degenerative spine disease"],
+        "Management Considerations": ["Conservative treatment (e.g., physical therapy, pain management)", "Corticosteroids for inflammation", "Surgical decompression in severe cases or if conservative management fails"]
+      }
+    },
+    {
+      "condition": "Raised intracranial pressure",
+      "important_notes": {
+        "Common UKMLA Topics": ["Increased pressure within the skull that can lead to brain herniation and damage", "Symptoms (headache, nausea, vomiting, altered mental status, papilledema)", "Diagnosis with CT or MRI scan of the brain"],
+        "Red Flags": ["Severe headache, vomiting, and altered consciousness", "Signs of herniation (e.g., pupil dilation, abnormal posturing)", "Head trauma or neurological deficits"],
+        "Management Considerations": ["Elevate the head of the bed to 30 degrees", "Hyperventilation and osmotic therapy (e.g., mannitol)", "Emergency surgery if indicated (e.g., decompressive craniectomy)"]
+      }
+    },
+    {
+      "condition": "Reactive arthritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["A type of inflammatory arthritis triggered by an infection elsewhere in the body (often a gastrointestinal or urogenital infection)", "Symptoms (joint pain, swelling, conjunctivitis, urethritis)", "Diagnosis through clinical history, joint aspiration, and tests for infectious agents"],
+        "Red Flags": ["Persistent joint symptoms after an infection", "Conjunctivitis or skin rashes", "History of gastrointestinal or genitourinary infection"],
+        "Management Considerations": ["Nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief", "Antibiotics if a bacterial infection is still present", "Disease-modifying antirheumatic drugs (DMARDs) for refractory cases"]
+      }
+    },
+    {
+      "condition": "Respiratory arrest",
+      "important_notes": {
+        "Common UKMLA Topics": ["Complete cessation of breathing, leading to insufficient oxygen delivery to the body", "Symptoms (absence of breathing, cyanosis, altered consciousness)", "Diagnosis through clinical assessment and absence of breath sounds"],
+        "Red Flags": ["Sudden cessation of breathing, unresponsiveness", "Signs of airway obstruction or asphyxiation", "Associated trauma, drug overdose, or neurological impairment"],
+        "Management Considerations": ["Immediate CPR and airway management", "Intubation or ventilation if necessary", "Treat underlying cause (e.g., overdose, trauma, obstruction)"]
+      }
+    },
+    {
+      "condition": "Respiratory failure",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inability of the respiratory system to maintain adequate oxygenation and/or ventilation", "Symptoms (shortness of breath, cyanosis, tachypnea, confusion)", "Diagnosis with ABG (arterial blood gases), chest X-ray, and clinical examination"],
+        "Red Flags": ["Severe difficulty breathing, altered mental status", "Hypoxia or hypercapnia on blood gas analysis", "Underlying conditions such as chronic obstructive pulmonary disease (COPD), pneumonia, or pulmonary embolism"],
+        "Management Considerations": ["Oxygen therapy for hypoxia", "Ventilatory support (e.g., non-invasive or invasive mechanical ventilation)", "Treatment of underlying disease (e.g., antibiotics for pneumonia, bronchodilators for asthma)"]
+      }
+    },
+    {
+      "condition": "Retinal detachment",
+      "important_notes": {
+        "Common UKMLA Topics": ["Separation of the retina from the underlying tissue, often due to trauma or degeneration", "Symptoms (sudden onset of floaters, flashes of light, or a shadow/curtain effect in vision)", "Diagnosis with dilated fundus examination and optical coherence tomography (OCT)"],
+        "Red Flags": ["Sudden loss of vision or visual disturbances", "History of trauma or significant myopia", "Acute vision changes or peripheral vision loss"],
+        "Management Considerations": ["Emergency surgical intervention (e.g., laser surgery, cryopexy, or vitrectomy)", "Postoperative care to prevent recurrence", "Monitoring for complications such as cataracts or glaucoma"]
+      }
+    },
+    {
+      "condition": "Rheumatoid arthritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic autoimmune inflammatory disease affecting joints, typically presenting in a symmetrical pattern", "Symptoms (morning stiffness, joint pain, swelling, and deformities)", "Diagnosis with rheumatoid factor (RF), anti-CCP antibodies, and clinical findings"],
+        "Red Flags": ["Persistent joint swelling, warmth, or tenderness", "Deformities or limitations in range of motion", "Extra-articular manifestations (e.g., rheumatoid nodules, vasculitis)"],
+        "Management Considerations": ["Disease-modifying antirheumatic drugs (DMARDs), e.g., methotrexate", "Biologic agents for refractory cases", "NSAIDs or corticosteroids for symptom relief"]
+      }
+    },
+    {
+      "condition": "Rhinosinusitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the nasal and sinus mucosa, often due to infection or allergy", "Symptoms (nasal congestion, facial pain, purulent nasal discharge, headache)", "Diagnosis through clinical examination, nasal endoscopy, or CT scan"],
+        "Red Flags": ["Severe headache or facial swelling", "Fever or signs of systemic infection", "Persistent symptoms lasting more than 10 days or worsening after initial improvement"],
+        "Management Considerations": ["Nasal decongestants or saline irrigation", "Antibiotics if bacterial infection is suspected", "Surgical intervention for chronic or complicated cases"]
+      }
+    },
+    {
+      "condition": "Right heart valve disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Diseases affecting the valves on the right side of the heart (e.g., tricuspid regurgitation, pulmonary stenosis)", "Symptoms (dyspnea, fatigue, edema, jugular venous distension)", "Diagnosis with echocardiography or cardiac catheterization"],
+        "Red Flags": ["Severe shortness of breath, fatigue, or edema", "Signs of right heart failure (e.g., hepatomegaly, ascites)", "History of congenital heart disease or rheumatic fever"],
+        "Management Considerations": ["Medical management with diuretics and afterload reduction", "Surgical valve replacement or repair in severe cases", "Monitoring for complications such as arrhythmias or thromboembolism"]
+      }
+    },
+    {
+      "condition": "Rubella",
+      "important_notes": {
+        "Common UKMLA Topics": ["Viral infection caused by rubella virus, leading to a mild rash illness in children", "Symptoms (maculopapular rash, fever, lymphadenopathy, and mild upper respiratory symptoms)", "Diagnosis through serology or PCR testing"],
+        "Red Flags": ["Rash associated with fever or swollen lymph nodes", "Complications like congenital rubella syndrome if contracted during pregnancy", "History of exposure to infected individuals"],
+        "Management Considerations": ["Supportive care (e.g., antipyretics for fever)", "Immunization with rubella vaccine for prevention", "Monitoring and management of complications like congenital rubella syndrome"]
+      }
+    },
+    {
+      "condition": "Sarcoidosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Multisystem granulomatous disorder, often affecting the lungs, skin, and lymph nodes", "Symptoms (cough, dyspnea, skin rashes, enlarged lymph nodes)", "Diagnosis with chest X-ray, biopsy, and elevated serum ACE levels"],
+        "Red Flags": ["Persistent cough, dyspnea, or chest pain", "Skin lesions or uveitis", "Symptoms worsening despite treatment"],
+        "Management Considerations": ["Corticosteroids for inflammation", "Immunosuppressive therapy for refractory cases", "Monitoring for organ involvement and complications"]
+      }
+    },
+    {
+      "condition": "Scabies",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infestation of the skin by Sarcoptes scabiei mite, leading to intense itching and rash", "Symptoms (pruritic rash, especially in interdigital spaces, wrists, and genitals)", "Diagnosis based on clinical appearance and skin scraping for mites"],
+        "Red Flags": ["Intense itching, especially at night", "Secondary bacterial infections from scratching", "Complications in immunocompromised patients"],
+        "Management Considerations": ["Topical permethrin or oral ivermectin for treatment", "Treatment of close contacts to prevent reinfestation", "Management of secondary infections with antibiotics if necessary"]
+      }
+    },
+    {
+      "condition": "Schizophrenia",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic psychiatric disorder characterized by distorted thinking, perception, emotions, and behavior", "Symptoms (delusions, hallucinations, disorganized speech, and cognitive impairments)", "Diagnosis through clinical evaluation and exclusion of other causes"],
+        "Red Flags": ["Hallucinations or delusions", "Significant changes in behavior or social withdrawal", "Family history of schizophrenia or other psychotic disorders"],
+        "Management Considerations": ["Antipsychotic medications (e.g., clozapine, risperidone)", "Psychosocial support and cognitive behavioral therapy", "Monitoring for side effects of antipsychotic medications"]
+      }
+    },
+    {
+      "condition": "Scleritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the sclera, often associated with autoimmune diseases", "Symptoms (eye pain, redness, photophobia, blurred vision)", "Diagnosis through clinical examination and slit-lamp evaluation"],
+        "Red Flags": ["Severe eye pain and vision changes", "Associated with systemic autoimmune diseases (e.g., rheumatoid arthritis)", "Failure to respond to treatment"],
+        "Management Considerations": ["Corticosteroids (topical or systemic) for inflammation", "Immunosuppressive agents for underlying autoimmune diseases", "Monitoring for complications such as glaucoma or cataracts"]
+      }
+    },
+    {
+      "condition": "Self-harm",
+      "important_notes": {
+        "Common UKMLA Topics": ["Intentional injury to oneself, often as a coping mechanism for emotional distress", "Symptoms (cuts, burns, bruises, or other visible injuries)", "Diagnosis through clinical history and mental health assessment"],
+        "Red Flags": ["Frequent or severe self-injurious behaviors", "Co-occurring psychiatric disorders (e.g., depression, anxiety, or borderline personality disorder)", "Risk of escalation to suicide"],
+        "Management Considerations": ["Psychiatric evaluation and therapy (e.g., cognitive behavioral therapy, dialectical behavior therapy)", "Addressing underlying psychological issues", "Crisis intervention for severe cases or suicidality"]
+      }
+    },
+    {
+      "condition": "Sepsis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Systemic inflammatory response to infection leading to organ dysfunction", "Symptoms (fever, tachycardia, hypotension, altered mental status, organ failure)", "Diagnosis through clinical criteria, blood cultures, and imaging to identify the source"],
+        "Red Flags": ["Hypotension despite adequate fluid resuscitation", "Organ dysfunction (e.g., renal failure, respiratory failure)", "Signs of septic shock (e.g., lactate >2 mmol/L, MAP <65 mmHg)"],
+        "Management Considerations": ["Prompt administration of broad-spectrum antibiotics", "Fluid resuscitation and vasopressors for shock", "Source control (e.g., drainage of abscess, removal of infected device)"]
+      }
+    },
+    {
+      "condition": "Septic arthritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of a joint, often caused by bacteria such as Staphylococcus aureus", "Symptoms (acute joint pain, swelling, fever, redness, inability to move the joint)", "Diagnosis through joint aspiration and Gram stain/culture of synovial fluid"],
+        "Red Flags": ["Severe joint pain, redness, and fever", "Inability to move the affected joint", "Risk factors (e.g., prosthetic joint, immunocompromised, IV drug use)"],
+        "Management Considerations": ["Empiric intravenous antibiotics, followed by targeted therapy", "Drainage of infected joint (e.g., aspiration or arthroscopy)", "Physical therapy for joint function recovery"]
+      }
+    },
+    {
+      "condition": "Sickle cell disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Genetic disorder causing abnormal hemoglobin (HbS), leading to red blood cell sickling and vascular occlusion", "Symptoms (pain crises, anemia, fatigue, jaundice, increased risk of infections)", "Diagnosis through hemoglobin electrophoresis or genetic testing"],
+        "Red Flags": ["Severe pain crises, especially in the chest or abdomen", "Signs of organ damage (e.g., stroke, acute chest syndrome, renal failure)", "Infections (e.g., pneumonia, osteomyelitis, meningitis)"],
+        "Management Considerations": ["Pain management during crises", "Hydroxyurea to reduce the frequency of crises", "Blood transfusions and bone marrow transplant for severe cases"]
+      }
+    },
+    {
+      "condition": "Somatisation",
+      "important_notes": {
+        "Common UKMLA Topics": ["Psychiatric disorder where patients experience physical symptoms that are caused by psychological factors", "Symptoms (chronic pain, fatigue, gastrointestinal or neurological symptoms without a clear medical cause)", "Diagnosis through exclusion and psychological evaluation"],
+        "Red Flags": ["Unexplained physical symptoms that persist despite normal investigations", "Comorbid psychiatric conditions (e.g., depression, anxiety)", "Frequent healthcare utilization without a clear diagnosis"],
+        "Management Considerations": ["Psychiatric evaluation and psychotherapy (e.g., cognitive behavioral therapy)", "Addressing underlying psychological stressors", "Multidisciplinary approach with involvement of primary care providers and mental health specialists"]
+      }
+    },
+    {
+      "condition": "Spinal cord compression",
+      "important_notes": {
+        "Common UKMLA Topics": ["Compression of the spinal cord due to tumors, herniated discs, or trauma", "Symptoms (back pain, weakness, numbness, loss of bowel or bladder control, gait abnormalities)", "Diagnosis through MRI or CT scan"],
+        "Red Flags": ["Acute onset of neurological symptoms such as weakness or paralysis", "History of malignancy or trauma", "Bowel or bladder dysfunction"],
+        "Management Considerations": ["Steroids to reduce inflammation", "Surgical decompression for tumor or herniated disk", "Radiation or chemotherapy for malignancy-related compression"]
+      }
+    },
+    {
+      "condition": "Spinal cord injury",
+      "important_notes": {
+        "Common UKMLA Topics": ["Damage to the spinal cord, often from trauma, leading to loss of function below the level of injury", "Symptoms (paralysis, sensory loss, respiratory compromise, autonomic dysfunction)", "Diagnosis through clinical assessment and imaging (e.g., MRI, CT scan)"],
+        "Red Flags": ["Complete loss of sensation or movement below the injury site", "Breathing difficulties or inability to breathe independently", "Bladder and bowel incontinence"],
+        "Management Considerations": ["Initial stabilization with immobilization and airway management", "Surgical intervention to stabilize the spine and decompress the cord", "Rehabilitation with physical and occupational therapy"]
+      }
+    },
+    {
+      "condition": "Spinal fracture",
+      "important_notes": {
+        "Common UKMLA Topics": ["Fracture of the vertebral bones, often caused by trauma or osteoporosis", "Symptoms (back pain, deformity, neurological deficits)", "Diagnosis with X-rays, CT, or MRI imaging"],
+        "Red Flags": ["Severe back pain following trauma", "Neurological signs (e.g., weakness, numbness, bowel or bladder dysfunction)", "History of osteoporosis or metastatic cancer"],
+        "Management Considerations": ["Pain management with analgesics and bracing", "Surgical intervention for unstable fractures or neurological compromise", "Physical therapy to restore mobility and prevent complications"]
+      }
+    },
+    {
+      "condition": "Stroke",
+      "important_notes": {
+        "Common UKMLA Topics": ["Disruption of blood flow to the brain, leading to neurological deficits", "Symptoms (sudden onset of weakness, numbness, speech difficulty, visual changes)", "Diagnosis with CT or MRI of the brain, and assessment of vascular risk factors"],
+        "Red Flags": ["Sudden onset of focal neurological signs", "Risk factors (e.g., hypertension, diabetes, smoking, history of atrial fibrillation)", "Signs of increased intracranial pressure or herniation"],
+        "Management Considerations": ["Thrombolysis for ischemic stroke within the therapeutic window", "Antiplatelet therapy and anticoagulation for secondary prevention", "Rehabilitation with physical, occupational, and speech therapy"]
+      }
+    },
+    {
+      "condition": "Subarachnoid haemorrhage",
+      "important_notes": {
+        "Common UKMLA Topics": ["Bleeding into the subarachnoid space, often due to an aneurysm rupture", "Symptoms (severe headache, nausea, vomiting, loss of consciousness, neck stiffness)", "Diagnosis with CT or lumbar puncture for blood in cerebrospinal fluid"],
+        "Red Flags": ["Sudden, severe headache (thunderclap headache)", "Loss of consciousness or focal neurological deficits", "Risk factors (e.g., hypertension, family history of aneurysms)"],
+        "Management Considerations": ["Supportive care in an intensive care unit", "Surgical intervention or endovascular coiling for aneurysm", "Monitoring for complications like rebleeding or vasospasm"]
+      }
+    },
+    {
+      "condition": "Subdural haemorrhage",
+      "important_notes": {
+        "Common UKMLA Topics": ["Bleeding between the dura mater and the arachnoid mater, often due to trauma", "Symptoms (headache, confusion, altered consciousness, focal neurological deficits)", "Diagnosis with CT or MRI imaging"],
+        "Red Flags": ["Head trauma followed by neurological deterioration", "Signs of increased intracranial pressure", "History of anticoagulant use or chronic alcoholism"],
+        "Management Considerations": ["Surgical evacuation of the hematoma if necessary", "Monitoring for changes in neurological status", "Management of underlying risk factors (e.g., discontinuing anticoagulants)"]
+      }
+    },
+    {
+      "condition": "Substance use disorder",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic use of substances (e.g., alcohol, drugs) leading to dependence, addiction, and social or medical problems", "Symptoms (compulsive use, tolerance, withdrawal symptoms, negative impact on personal and social functioning)", "Diagnosis through clinical history and standardized assessment tools"],
+        "Red Flags": ["Severe withdrawal symptoms", "Risk of overdose or harm to self or others", "Co-occurring psychiatric disorders (e.g., depression, anxiety)"],
+        "Management Considerations": ["Detoxification in a controlled setting", "Psychosocial interventions (e.g., cognitive behavioral therapy, support groups)", "Medications for withdrawal management and relapse prevention (e.g., methadone, naltrexone)"]
+      }
+    },
+    {
+      "condition": "Surgical site infection",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection occurring at the site of a surgical wound, often due to bacterial contamination", "Symptoms (redness, swelling, pus, pain at the incision site)", "Diagnosis through clinical examination and culture of wound exudate"],
+        "Red Flags": ["Fever or chills following surgery", "Increasing pain or redness at the surgical site", "Wound dehiscence or purulent drainage"],
+        "Management Considerations": ["Empiric antibiotics, followed by targeted therapy", "Wound care and drainage if necessary", "Prevention through sterile techniques and prophylactic antibiotics"]
+      }
+    },
+    {
+      "condition": "Syphilis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Sexually transmitted infection caused by Treponema pallidum, with primary, secondary, latent, and tertiary stages", "Symptoms (chancre in primary stage, rash, mucocutaneous lesions in secondary stage)", "Diagnosis with serology (e.g., RPR, VDRL, FTA-ABS tests)"],
+        "Red Flags": ["Painless genital ulcer (chancre)", "Rash on palms or soles", "Neurological or cardiovascular symptoms in tertiary syphilis"],
+        "Management Considerations": ["Penicillin G for all stages of syphilis", "Contact tracing and treatment of sexual partners", "Follow-up serologic testing to assess treatment efficacy"]
+      }
+    },
+    {
+      "condition": "Testicular cancer",
+      "important_notes": {
+        "Common UKMLA Topics": ["Malignant growth in the testes, often presenting as a painless lump", "Symptoms (testicular mass, swelling, pain, or heaviness in the scrotum)", "Diagnosis with ultrasound and serum tumor markers (e.g., alpha-fetoprotein, hCG, LDH)"],
+        "Red Flags": ["Painless testicular lump", "Enlargement or swelling of the testicle", "History of cryptorchidism or family history of testicular cancer"],
+        "Management Considerations": ["Orchiectomy (removal of the affected testis)", "Chemotherapy or radiation for high-risk or metastatic disease", "Surveillance for recurrence and fertility preservation"]
+      }
+    },
+    {
+      "condition": "Testicular torsion",
+      "important_notes": {
+        "Common UKMLA Topics": ["Twisting of the spermatic cord leading to ischemia of the testicle", "Symptoms (sudden, severe scrotal pain, nausea, vomiting, absent cremasteric reflex)", "Diagnosis through physical examination and Doppler ultrasound"],
+        "Red Flags": ["Sudden onset of severe scrotal pain", "Absence of testicular blood flow on ultrasound", "Risk of testicular infarction if untreated"],
+        "Management Considerations": ["Emergency surgery to untwist the spermatic cord and fix the testis in place", "Fertility preservation if needed", "Preventive orchidopexy for the unaffected testis"]
+      }
+    },
+    {
+      "condition": "Thyroid eye disease",
+      "important_notes": {
+        "Common UKMLA Topics": ["Autoimmune disorder associated with Graves' disease, causing inflammation and swelling of the extraocular muscles", "Symptoms (proptosis, eyelid retraction, diplopia, eye pain)", "Diagnosis through clinical examination and thyroid function tests"],
+        "Red Flags": ["Sudden or severe vision changes", "Eye pain or redness", "Inability to move eyes or loss of vision"],
+        "Management Considerations": ["Treatment of underlying thyroid disorder (e.g., antithyroid medications, thyroidectomy)", "Orbital decompression surgery for severe cases", "Steroids or immunosuppressive therapy for inflammation control"]
+      }
+    },
+    {
+      "condition": "Thyroid nodules",
+      "important_notes": {
+        "Common UKMLA Topics": ["Abnormal growth of thyroid tissue, often detected incidentally on imaging", "Symptoms (usually asymptomatic, may cause a palpable lump or difficulty swallowing)", "Diagnosis through ultrasound and fine needle aspiration biopsy (FNAB)"],
+        "Red Flags": ["Rapid growth of the nodule", "Symptoms of compression (e.g., difficulty swallowing, hoarseness)", "Family history of thyroid cancer"],
+        "Management Considerations": ["Fine needle aspiration biopsy for suspicious nodules", "Thyroidectomy for malignant or high-risk nodules", "Monitoring benign nodules with regular ultrasounds"]
+      }
+    },
+    {
+      "condition": "Thyrotoxicosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Excessive thyroid hormone levels, often due to Graves' disease or toxic multinodular goiter", "Symptoms (weight loss, tremors, heat intolerance, tachycardia, anxiety)", "Diagnosis through elevated thyroid hormone levels and suppressed TSH"],
+        "Red Flags": ["Severe hyperthyroidism with arrhythmias or heart failure", "Thyroid storm (severe fever, delirium, tachycardia)"],
+        "Management Considerations": ["Antithyroid drugs (e.g., methimazole, propylthiouracil)", "Radioactive iodine or thyroidectomy for refractory cases", "Beta-blockers for symptom control"]
+      }
+    },
+    {
+      "condition": "Tonsillitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the tonsils, often due to viral or bacterial infections", "Symptoms (sore throat, fever, difficulty swallowing, swollen lymph nodes)", "Diagnosis through clinical evaluation and throat culture or rapid antigen test"],
+        "Red Flags": ["Severe pain or difficulty swallowing", "Trismus (lockjaw) or signs of airway obstruction", "Recurrent episodes of tonsillitis"],
+        "Management Considerations": ["Symptomatic management (e.g., analgesics, hydration)", "Antibiotics for bacterial tonsillitis (e.g., Group A Streptococcus)", "Tonsillectomy for recurrent or severe cases"]
+      }
+    },
+    {
+      "condition": "Toxic shock syndrome",
+      "important_notes": {
+        "Common UKMLA Topics": ["Severe systemic illness caused by toxins from certain bacterial infections (e.g., Staphylococcus aureus, Streptococcus pyogenes)", "Symptoms (fever, hypotension, rash, multi-organ failure)", "Diagnosis through clinical presentation and blood cultures"],
+        "Red Flags": ["Hypotension and organ dysfunction (e.g., renal failure, liver dysfunction)", "History of tampon use or skin wound infections", "Severe erythematous rash and desquamation"],
+        "Management Considerations": ["Intravenous antibiotics (e.g., clindamycin, vancomycin)", "Supportive care for organ failure", "Source control (e.g., drainage of abscess, removal of infected material)"]
+      }
+    },
+    {
+      "condition": "Tuberculosis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection caused by Mycobacterium tuberculosis, usually affecting the lungs but can involve other organs", "Symptoms (chronic cough, hemoptysis, night sweats, weight loss)", "Diagnosis through chest X-ray, sputum smear, and culture for Mycobacterium tuberculosis"],
+        "Red Flags": ["Hemoptysis or severe weight loss", "Contact with someone with active tuberculosis", "Immunocompromised patients (e.g., HIV, diabetes)"],
+        "Management Considerations": ["Long-term antibiotic therapy with a combination of drugs (e.g., rifampin, isoniazid, pyrazinamide)", "Monitoring for drug resistance and treatment adherence", "Isolation of patients with active pulmonary TB to prevent transmission"]
+      }
+    },
+    {
+      "condition": "Unstable angina",
+      "important_notes": {
+        "Common UKMLA Topics": ["A type of acute coronary syndrome where chest pain occurs unpredictably or at rest, indicating myocardial ischemia", "Symptoms (chest pain, shortness of breath, sweating, nausea)", "Diagnosis through clinical presentation, ECG, and biomarkers (e.g., troponins)"],
+        "Red Flags": ["Chest pain that is severe, prolonged, or occurring at rest", "Signs of hemodynamic instability or arrhythmias", "History of cardiovascular risk factors (e.g., hypertension, smoking, diabetes)"],
+        "Management Considerations": ["Antiplatelet therapy (e.g., aspirin, clopidogrel)", "Nitroglycerin for pain relief", "Cardiac catheterization and possible coronary revascularization (e.g., angioplasty or bypass surgery)"]
+      }
+    },
+    {
+      "condition": "Urinary incontinence",
+      "important_notes": {
+        "Common UKMLA Topics": ["Involuntary leakage of urine, which can result from a variety of causes (e.g., overactive bladder, stress incontinence, mixed incontinence)", "Symptoms (leakage of urine, frequent urges to urinate, wetness)", "Diagnosis through clinical history and bladder diary"],
+        "Red Flags": ["Urgency incontinence with high frequency", "Neurological symptoms (e.g., weakness or numbness in the legs)", "Blood in the urine (hematuria)"],
+        "Management Considerations": ["Behavioral therapies (e.g., bladder training, pelvic floor exercises)", "Medications (e.g., anticholinergics for overactive bladder)", "Surgical options for severe cases (e.g., sling surgery for stress incontinence)"]
+      }
+    },
+    {
+      "condition": "Urinary tract calculi",
+      "important_notes": {
+        "Common UKMLA Topics": ["Formation of stones in the urinary tract, which can obstruct urine flow and cause pain", "Symptoms (severe flank pain, hematuria, dysuria, nausea)", "Diagnosis through imaging (e.g., CT scan, ultrasound)"],
+        "Red Flags": ["Severe, sudden-onset pain (renal colic)", "Fever or signs of infection with urinary tract obstruction", "Blood in the urine or difficulty urinating"],
+        "Management Considerations": ["Pain management with NSAIDs or opioids", "Hydration and alpha-blockers to facilitate stone passage", "Surgical intervention (e.g., lithotripsy or ureteroscopy) for larger stones or obstruction"]
+      }
+    },
+    {
+      "condition": "Urinary tract infection",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the urinary tract, often caused by Escherichia coli", "Symptoms (dysuria, frequency, urgency, lower abdominal pain, hematuria)", "Diagnosis through urine culture and dipstick testing"],
+        "Red Flags": ["Fever or systemic signs of infection", "Flank pain or signs of pyelonephritis (e.g., costovertebral angle tenderness)", "Pregnancy or recurrent UTIs"],
+        "Management Considerations": ["Antibiotics (e.g., nitrofurantoin, trimethoprim)", "Hydration and pain relief (e.g., phenazopyridine for symptomatic relief)", "Prevention strategies for recurrent UTIs (e.g., cranberry products, post-coital antibiotics)"]
+      }
+    },
+    {
+      "condition": "Urticaria",
+      "important_notes": {
+        "Common UKMLA Topics": ["Hives or welts, often caused by an allergic reaction or other stimuli", "Symptoms (raised, itchy wheals, often with a central pallor)", "Diagnosis through clinical examination and history"],
+        "Red Flags": ["Severe or persistent itching", "Swelling of the tongue or throat", "Difficulty breathing or systemic allergic reactions"],
+        "Management Considerations": ["Antihistamines (e.g., cetirizine, loratadine)", "Avoidance of known triggers", "Corticosteroids for severe cases"]
+      }
+    },
+    {
+      "condition": "Uveitis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the uvea, which can involve the iris, ciliary body, and choroid", "Symptoms (eye redness, pain, photophobia, blurred vision)", "Diagnosis through slit-lamp examination and possible referral to ophthalmology"],
+        "Red Flags": ["Severe eye pain or vision loss", "History of systemic autoimmune diseases (e.g., rheumatoid arthritis, sarcoidosis)", "Signs of systemic inflammation"],
+        "Management Considerations": ["Topical corticosteroids", "Systemic immunosuppressive agents for severe or recurrent cases", "Treatment of underlying causes (e.g., infection or autoimmune disease)"]
+      }
+    },
+    {
+      "condition": "Varicella zoster",
+      "important_notes": {
+        "Common UKMLA Topics": ["Herpesvirus infection that causes chickenpox (primary infection) and shingles (reactivation)", "Symptoms (itchy vesicular rash, fever, headache)", "Diagnosis through clinical presentation and PCR or direct fluorescence testing"],
+        "Red Flags": ["Severe pain or neurological symptoms (e.g., shingles affecting the eye or face)", "Immunocompromised patients (e.g., HIV, chemotherapy)", "Pregnancy or neonatal infection"],
+        "Management Considerations": ["Acyclovir or valacyclovir for antiviral treatment", "Pain management (e.g., NSAIDs, gabapentin)", "Vaccination to prevent primary infection and reactivation"]
+      }
+    },
+    {
+      "condition": "Varicose veins",
+      "important_notes": {
+        "Common UKMLA Topics": ["Dilated, tortuous veins, commonly in the lower legs, due to venous insufficiency", "Symptoms (aching, swelling, heaviness in the legs, visible veins)", "Diagnosis through clinical examination and duplex ultrasound"],
+        "Red Flags": ["Sudden onset of leg swelling or pain", "Signs of deep vein thrombosis (DVT)", "Ulceration or skin changes near varicose veins"],
+        "Management Considerations": ["Compression stockings", "Sclerotherapy or laser treatment", "Surgical intervention (e.g., vein stripping) for severe cases"]
+      }
+    },
+    {
+      "condition": "Vasa praevia",
+      "important_notes": {
+        "Common UKMLA Topics": ["A condition during pregnancy where fetal blood vessels cross or run near the cervical os", "Symptoms (painless vaginal bleeding during labor)", "Diagnosis through ultrasound or color Doppler examination"],
+        "Red Flags": ["Painless vaginal bleeding in the second or third trimester", "Fetal distress or abnormal fetal heart rate patterns", "Risk of fetal hemorrhage during delivery"],
+        "Management Considerations": ["Cesarean section for delivery", "Close monitoring of fetal wellbeing", "Management of preterm labor if necessary"]
+      }
+    },
+    {
+      "condition": "Vasovagal syncope",
+      "important_notes": {
+        "Common UKMLA Topics": ["A common cause of fainting due to a sudden drop in heart rate and blood pressure", "Symptoms (dizziness, nausea, lightheadedness, loss of consciousness)", "Diagnosis through clinical history and tilt-table test"],
+        "Red Flags": ["Frequent or prolonged episodes of syncope", "Syncope associated with chest pain or palpitations", "Significant injury during a fainting episode"],
+        "Management Considerations": ["Increasing salt and fluid intake", "Physical counter-pressure maneuvers (e.g., leg crossing, handgrip)", "Avoidance of triggers (e.g., prolonged standing, dehydration)"]
+      }
+    },
+    {
+      "condition": "Venous ulcers",
+      "important_notes": {
+        "Common UKMLA Topics": ["Chronic ulcers typically located on the lower legs, often caused by venous insufficiency", "Symptoms (painful, slow-healing ulcers, edema, discoloration of the skin)", "Diagnosis through clinical examination and duplex ultrasound"],
+        "Red Flags": ["Signs of infection (e.g., increased redness, warmth, discharge)", "Severe pain or non-healing ulcers", "History of deep vein thrombosis (DVT)"],
+        "Management Considerations": ["Compression therapy", "Wound care (e.g., dressing changes, debridement)", "Management of underlying venous insufficiency (e.g., surgery or sclerotherapy)"]
+      }
+    },
+    {
+      "condition": "Viral exanthema",
+      "important_notes": {
+        "Common UKMLA Topics": ["Skin rash caused by a viral infection (e.g., measles, rubella, roseola)", "Symptoms (rash, fever, malaise, lymphadenopathy)", "Diagnosis through clinical history and laboratory tests (e.g., PCR, serology)"],
+        "Red Flags": ["Rash associated with severe systemic symptoms (e.g., difficulty breathing, confusion)", "Risk of transmission to vulnerable populations (e.g., pregnant women, immunocompromised individuals)", "Persistent or recurrent rashes"],
+        "Management Considerations": ["Symptomatic treatment (e.g., antipyretics, hydration)", "Vaccination (e.g., MMR vaccine for measles, rubella, and mumps prevention)", "Monitoring for complications (e.g., encephalitis, pneumonia)"]
+      }
+    },
+    {
+      "condition": "Viral gastroenteritis",
+      "important_notes": {
+        "Common UKMLA Topics": ["Infection of the gastrointestinal tract caused by viruses such as rotavirus, norovirus, or adenovirus", "Symptoms (diarrhea, vomiting, abdominal cramps, fever)", "Diagnosis through clinical symptoms and stool testing"],
+        "Red Flags": ["Severe dehydration (e.g., dry mouth, low urine output, dizziness)", "Blood in stool or high fever", "Prolonged or recurrent symptoms"],
+        "Management Considerations": ["Oral rehydration therapy", "Antiemetics or antidiarrheal medications (for symptomatic relief)", "Antiviral treatments in specific cases (e.g., norovirus or rotavirus)"]
+      }
+    },
+    {
+      "condition": "Viral hepatitides",
+      "important_notes": {
+        "Common UKMLA Topics": ["Inflammation of the liver caused by viral infections, such as hepatitis A, B, C, D, and E", "Symptoms (jaundice, fatigue, abdominal pain, nausea)", "Diagnosis through serology and liver function tests"],
+        "Red Flags": ["Severe jaundice or confusion (signs of hepatic encephalopathy)", "Chronic infection leading to cirrhosis or liver failure", "Risk of transmission (e.g., intravenous drug use, sexual contact, blood transfusions)"],
+        "Management Considerations": ["Antiviral therapy for chronic hepatitis B and C", "Liver transplant in end-stage cirrhosis", "Prevention through vaccination (hepatitis A and B)"]
+      }
+    },
+    {
+      "condition": "Visual field defects",
+      "important_notes": {
+        "Common UKMLA Topics": ["Loss of part of the visual field, which can be caused by neurological or ocular conditions (e.g., glaucoma, stroke, optic neuritis)", "Symptoms (blind spots, difficulty seeing peripherally, blurred vision)", "Diagnosis through visual field testing and imaging (e.g., MRI, CT scan)"],
+        "Red Flags": ["Sudden loss of vision or visual field", "Painful vision changes or eye discomfort", "History of neurological disease (e.g., stroke, multiple sclerosis)"],
+        "Management Considerations": ["Referral to ophthalmology or neurology", "Management of underlying conditions (e.g., glaucoma, optic neuritis)", "Treatment of associated systemic conditions (e.g., hypertension, diabetes)"]
+      }
+    },
+    {
+      "condition": "Vitamin B12 and/or folate deficiency",
+      "important_notes": {
+        "Common UKMLA Topics": ["Deficiencies in B12 or folate leading to anemia and neurological symptoms", "Symptoms (fatigue, pallor, weakness, numbness, cognitive changes)", "Diagnosis through blood tests (e.g., B12 levels, methylmalonic acid, homocysteine)"],
+        "Red Flags": ["Severe or progressive neurological symptoms", "Macrocytic anemia with a high MCV", "Risk of deficiency in vegetarians, elderly, or individuals with malabsorption syndromes"],
+        "Management Considerations": ["B12 supplementation (oral or intramuscular) for deficiency", "Folate supplementation in folate deficiency", "Management of underlying causes (e.g., pernicious anemia, celiac disease)"]
+      }
+    },
+    {
+      "condition": "Volvulus",
+      "important_notes": {
+        "Common UKMLA Topics": ["Twisting of the intestine that can lead to obstruction and ischemia", "Symptoms (abdominal pain, vomiting, distension, constipation)", "Diagnosis through imaging (e.g., abdominal X-ray, CT scan)"],
+        "Red Flags": ["Severe abdominal pain or vomiting", "Signs of bowel ischemia or perforation (e.g., fever, sepsis)", "Complete bowel obstruction leading to risk of bowel necrosis"],
+        "Management Considerations": ["Surgical intervention to untwist the bowel", "Resection of necrotic bowel if necessary", "Supportive care (e.g., IV fluids, antibiotics)"]
+      }
+    },
+    {
+      "condition": "VTE in pregnancy and puerperium",
+      "important_notes": {
+        "Common UKMLA Topics": ["Venous thromboembolism (VTE) in pregnancy, often caused by hypercoagulability, stasis, and endothelial injury", "Symptoms (swelling, pain, redness in the leg, shortness of breath)", "Diagnosis through clinical signs, D-dimer test, and imaging (e.g., ultrasound, CT pulmonary angiography)"],
+        "Red Flags": ["Sudden onset of leg swelling or pain", "Shortness of breath or chest pain (possible pulmonary embolism)", "Risk factors such as history of VTE, obesity, or immobility"],
+        "Management Considerations": ["Low molecular weight heparin for anticoagulation", "Compression stockings for prevention of deep vein thrombosis", "Management during labor and delivery to prevent VTE recurrence"]
+      }
+    },
+    {
+      "condition": "Wernicke's encephalopathy",
+      "important_notes": {
+        "Common UKMLA Topics": ["Neurological disorder caused by thiamine deficiency, often in alcoholics or those with poor nutritional intake", "Symptoms (confusion, ataxia, nystagmus, ophthalmoplegia)", "Diagnosis through clinical presentation and blood tests (e.g., low thiamine levels)"],
+        "Red Flags": ["Progressive neurological deterioration", "Severe confusion or memory problems", "Risk of death if left untreated"],
+        "Management Considerations": ["Thiamine supplementation (IV or IM)", "Management of underlying causes (e.g., alcohol use disorder, malnutrition)", "Monitoring for complications (e.g., Korsakoff syndrome)"]
+      }
+    },
+    {
+      "condition": "Whooping cough",
+      "important_notes": {
+        "Common UKMLA Topics": ["Bacterial infection caused by *Bordetella pertussis* that leads to severe coughing fits", "Symptoms (coughing paroxysms, inspiratory 'whoop', post-cough vomiting)", "Diagnosis through nasopharyngeal culture or PCR testing"],
+        "Red Flags": ["Severe or persistent cough lasting for more than 3 weeks", "Coughing episodes with difficulty breathing or cyanosis", "Risk of transmission to vulnerable individuals (e.g., infants, pregnant women)"],
+        "Management Considerations": ["Antibiotics (e.g., azithromycin or erythromycin) in early stages", "Vaccination for prevention (e.g., DTaP vaccine)", "Supportive care (e.g., hydration, oxygen therapy for severe cases)"]
+      }
+    }
+  ]
+}
+            
+                
+    
